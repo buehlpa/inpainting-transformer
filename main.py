@@ -20,17 +20,17 @@ from utils import get_basename
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--image_dir', default='../mvtec_anomaly_detection/bottle/', type=str)
+    parser.add_argument('--image_dir', default='/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut', type=str)
 
     parser.add_argument('--image_size', default='(256,256)', type=str)
-    parser.add_argument('--num_epochs', default=2000, type=int)
+    parser.add_argument('--num_epochs', default=200, type=int)
     parser.add_argument('--batch_size', default=256, type=int)
     parser.add_argument('--lr', default=1e-4, type=float)
     parser.add_argument('--train_ratio', default=0.9, type=float)
     parser.add_argument('--seed', default=1234, type=int)
     parser.add_argument('--pretrained', default=None, type=str)
 
-    parser.add_argument('--ckpt', default='./ckpt/InTra/MVTAD_bottle/', type=str)
+    parser.add_argument('--ckpt', default='./ckpt', type=str)
     parser.add_argument('--is_infer', action='store_true')
 
     return parser.parse_args()

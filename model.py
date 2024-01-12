@@ -74,6 +74,7 @@ class MultiheadedFeatureSelfAttention(nn.Module):
         self.MLP_q = nn.Sequential(*[nn.Linear(d_model, d_model * 2), 
                                     nn.GELU(),
                                     nn.Linear(d_model*2, int(d_model/2))])
+        
         self.MLP_k = nn.Sequential(*[nn.Linear(d_model, d_model * 2), 
                                     nn.GELU(),
                                     nn.Linear(d_model*2, int(d_model/2))])

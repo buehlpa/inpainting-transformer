@@ -85,7 +85,16 @@ def MVTecAD_loader(image_dir, image_size, train_ratio=0.9, batch_size=1, num_wor
     test_image_list = get_image_list(test_imgdir)
     test_label_list = [make_test_label(test_imgdir, test_labdir, x, image_size) for x in test_image_list]
 
+    #  TODO add part to insert contamination into the training data set : IDEA reomve from testset and add to trainset
+
+
+    print(train_image_list,)
+
+
+
+    # training
     if not is_inference:
+        
         train_dataset = MVTecAD_Dataset(train_image_list, train_label_list, transform_train)
         train_dataloader = DataLoader(dataset=train_dataset, batch_size=batch_size, num_workers=num_workers, shuffle=True)
         if train_ratio < 1.0:
@@ -94,6 +103,8 @@ def MVTecAD_loader(image_dir, image_size, train_ratio=0.9, batch_size=1, num_wor
         else:
             valid_dataloader = None
         return train_dataloader, valid_dataloader
+    
+    #inference
     else:
         train_dataset = MVTecAD_Dataset(train_image_list, train_label_list, transform_infer)
         train_dataloader = DataLoader(dataset=train_dataset, batch_size=batch_size, num_workers=num_workers, shuffle=False)
@@ -114,8 +125,12 @@ def imshow(x_0):
 
 
 if __name__ == '__main__':
-    image_dir = '../mvtec_anomaly_detection/bottle/'
+    image_dir = '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable'
     image_size = (256, 256)
-    data_loader, _ = MVTecAD_loader(image_dir, image_size, 1.0, 10, 0, is_inference=False, seed=1234)
-    x_0, _ = iter(data_loader).next()
+    data_loader, _ = MVTecAD_loader(image_dir, image_size, train_ratio=1.0, batch_size=10, num_workers=24, is_inference=False, seed=1234)
+    x_0, _ = next(iter(data_loader))
+    
     imshow(x_0)
+    
+    
+    print(os.cpu_count())

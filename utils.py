@@ -15,6 +15,7 @@ def make_test_label(test_imgdir, test_labdir, test_imgpath, img_size):
     # test_labdir : bottle/ground_truth
     # test_imgpath : bottle/test/broken_large/000.png ||| bottle/test/good/000.png
     # test_labpath : bottle/ground_truth/broken_large/000_mask.png
+    
     test_labpath_base = test_imgpath.replace(test_imgdir, test_labdir)
     test_labpath = os.path.join(test_labpath_base.split('.png')[0] + '_mask.png')
     if os.path.exists(test_labpath):
