@@ -32,6 +32,7 @@ def parse_args():
 
     parser.add_argument('--ckpt', default='./ckpt', type=str)
     parser.add_argument('--is_infer', action='store_true')
+    parser.add_argument('--contamination', default=False, type=bool)
 
     return parser.parse_args()
 
@@ -72,7 +73,7 @@ if __name__ =='__main__':
     args.image_size = literal_eval(args.image_size)
     args.results = os.path.join(args.ckpt, 'results')
 
-    train_loader, valid_loader = MVTecAD_loader(args.image_dir, args.image_size, args.train_ratio, args.batch_size, num_workers=8, is_inference=False)
+    train_loader, valid_loader = MVTecAD_loader(args.image_dir, args.image_size, args.train_ratio, args.batch_size, num_workers=8, is_inference=False,contamination=args.contamination)
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print(device)
     args.n_gpus = torch.cuda.device_count()

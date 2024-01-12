@@ -50,8 +50,12 @@ class MVTecAD_Dataset(Dataset):
 
     def __len__(self):
         return len(self.image_list)
+    
+def get_folder_names(directory):
+    """ List all folder names in the specified directory. """
+    return [name for name in os.listdir(directory) if os.path.isdir(os.path.join(directory, name))]
 
-def MVTecAD_loader(image_dir, image_size, train_ratio=0.9, batch_size=1, num_workers=0, is_inference=False, seed=1234):
+def MVTecAD_loader(image_dir, image_size, train_ratio=0.9, batch_size=1, num_workers=0, is_inference=False, seed=1234,contamination=False):
     assert train_ratio >=0.0 and train_ratio <=1.0
     # automatically returns two dataloaders. train & valid depends on train_ratio
     random.seed(seed)
@@ -76,14 +80,31 @@ def MVTecAD_loader(image_dir, image_size, train_ratio=0.9, batch_size=1, num_wor
     test_labdir = os.path.join(image_dir, 'ground_truth')
 
     train_image_list = get_image_list(train_imgdir)
+    
+    test_image_list = get_image_list(test_imgdir)
+    
+    ## add contam
+    if contamination:
+        #TODO procentula contamination
+        anolist = get_folder_names(test_labdir)
+        anos_for_trainset=[]     
+        for anotype  in anolist :
+            if anotype != "good":
+                subset=[x for x in test_image_list if anotype in x]
+                samples_subset=random.sample(subset, len(subset)//2 )
+                anos_for_trainset.extend(samples_subset)
+            
+        train_image_list=train_image_list+anos_for_trainset   
+        test_image_list=[x for x in test_image_list if x not in anos_for_trainset]
+    test_label_list = [make_test_label(test_imgdir, test_labdir, x, image_size) for x in test_image_list]
+    
+    
     random.shuffle(train_image_list)
     train_image_list, valid_image_list = train_image_list[:int(len(train_image_list)*train_ratio)], train_image_list[int(len(train_image_list)*train_ratio):]
     train_label_list = [(np.zeros(image_size, dtype=np.uint8), 0)]*len(train_image_list)
     valid_label_list = [(np.zeros(image_size, dtype=np.uint8), 0)]*len(valid_image_list)
 
-    # test dataset include segmentation labels - make segmentation labels for normal samples
-    test_image_list = get_image_list(test_imgdir)
-    test_label_list = [make_test_label(test_imgdir, test_labdir, x, image_size) for x in test_image_list]
+
 
     #  TODO add part to insert contamination into the training data set : IDEA reomve from testset and add to trainset
 
