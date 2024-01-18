@@ -149,3 +149,4 @@ epoch [105/200], train loss: 0.001405, valid_loss: 0.326989, best_loss: 0.326989
 epoch [106/200], train loss: 0.001479, valid_loss: 0.326989, best_loss: 0.326989
 epoch [107/200], train loss: 0.001320, valid_loss: 0.326989, best_loss: 0.326989
 epoch [108/200], train loss: 0.001395, valid_loss: 0.326989, best_loss: 0.326989
+epoch [109/200], train loss: 0.001532, valid_loss: 0.326989, best_loss: 0.326989
