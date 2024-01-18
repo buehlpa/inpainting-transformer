@@ -24,6 +24,7 @@ def make_test_label(test_imgdir, test_labdir, test_imgpath, img_size):
     
     
     if os.path.exists(test_labpath):
+        print(test_labpath,img_size)
         label = cv2.resize(cv2.imread(test_labpath, cv2.IMREAD_GRAYSCALE), img_size, interpolation=cv2.INTER_NEAREST)
         label[label>=1] = 1
         return (label, 1)

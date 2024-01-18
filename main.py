@@ -20,19 +20,20 @@ from utils import get_basename
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--image_dir', default='/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut', type=str)
+    parser.add_argument('--image_dir', default='/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable', type=str)
 
-    parser.add_argument('--image_size', default='(256,256)', type=str)
-    parser.add_argument('--num_epochs', default=200, type=int)
+    parser.add_argument('--image_size', default=(256,256), type=tuple)
+    parser.add_argument('--num_epochs', default=2000, type=int)
     parser.add_argument('--batch_size', default=256, type=int)
     parser.add_argument('--lr', default=1e-4, type=float)
-    parser.add_argument('--train_ratio', default=0.9, type=float)
+    parser.add_argument('--train_ratio', default=0.8, type=float)
     parser.add_argument('--seed', default=1234, type=int)
     parser.add_argument('--pretrained', default=None, type=str)
 
     parser.add_argument('--ckpt', default='./ckpt', type=str)
-    parser.add_argument('--is_infer', action='store_true')
+    parser.add_argument('--is_infer', action='store_true')  # is true if flag is set
     parser.add_argument('--contamination', default=False, type=bool)
+    
 
     return parser.parse_args()
 
@@ -70,10 +71,16 @@ def tensor2nparr(tensor):
 if __name__ =='__main__':
     global args
     args = parse_args()
-    args.image_size = literal_eval(args.image_size)
+    
     args.results = os.path.join(args.ckpt, 'results')
 
-    train_loader, valid_loader = MVTecAD_loader(args.image_dir, args.image_size, args.train_ratio, args.batch_size, num_workers=8, is_inference=False,contamination=args.contamination)
+    for arg in vars(args):
+        print(arg, getattr(args, arg))
+        
+    print(args.contamination)    
+        
+        
+    train_loader, valid_loader = MVTecAD_loader(args.image_dir, args.image_size, args.train_ratio, args.batch_size, num_workers=24, is_inference=False,contamination=args.contamination)
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print(device)
     args.n_gpus = torch.cuda.device_count()
@@ -98,6 +105,8 @@ if __name__ =='__main__':
 
     best_loss = 1e+15
     valid_loss = 1e+15
+    
+    ## Training
     if is_train:
         if args.pretrained:
             model_state_dict = torch.load(os.path.join(args.pretrained, 'model_best.nn'), map_location='cuda')
@@ -113,8 +122,10 @@ if __name__ =='__main__':
             torch.save(model.state_dict(), os.path.join(args.ckpt, 'model_last.nn'))
             scheduler.step()
             print('epoch [{}/{}], train loss: {:.6f}, valid_loss: {:.6f}, best_loss: {:.6f}'.format(epoch + 1, num_epochs, train_loss, valid_loss, best_loss))
+            
+    ## Inference
     else:
-        model_state_dict = torch.load(os.path.join(args.ckpt, 'model_last.nn'), map_location='cuda')
+        model_state_dict = torch.load(os.path.join(args.ckpt, 'model_last.nn'), map_location='cuda') # last nn
         model.load_state_dict(model_state_dict)
 
         test_loader, train_loader = MVTecAD_loader(args.image_dir, args.image_size, args.train_ratio, 1, num_workers=0, is_inference=True)
@@ -139,7 +150,7 @@ if __name__ =='__main__':
                 loss, image_recon, image_reassembled, msgms_map =  model._process_one_image(data)
                 test_loss += loss.item()
 
-                image_raw_arr = tensor2nparr(data)
+                image_raw_arr =  (data)
                 image_rec_arr = tensor2nparr(image_recon)
                 image_pred_arr = tensor2nparr(msgms_map)
                 image_pred_arr_th = image_pred_arr.copy()

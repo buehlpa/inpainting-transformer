@@ -85,7 +85,7 @@ def MVTecAD_loader(image_dir, image_size, train_ratio=0.9, batch_size=1, num_wor
     
     ## add contam
     if contamination:
-        #TODO procentula contamination
+        #TODO procentual contamination
         anolist = get_folder_names(test_labdir)
         anos_for_trainset=[]     
         for anotype  in anolist :
@@ -96,6 +96,7 @@ def MVTecAD_loader(image_dir, image_size, train_ratio=0.9, batch_size=1, num_wor
             
         train_image_list=train_image_list+anos_for_trainset   
         test_image_list=[x for x in test_image_list if x not in anos_for_trainset]
+        
     test_label_list = [make_test_label(test_imgdir, test_labdir, x, image_size) for x in test_image_list]
     
     
@@ -148,10 +149,10 @@ def imshow(x_0):
 if __name__ == '__main__':
     image_dir = '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable'
     image_size = (256, 256)
-    data_loader, _ = MVTecAD_loader(image_dir, image_size, train_ratio=1.0, batch_size=10, num_workers=24, is_inference=False, seed=1234)
+    data_loader, _ = MVTecAD_loader(image_dir, image_size, train_ratio=.9, batch_size=256, num_workers=24, is_inference=False, seed=1234,contamination=False)
     x_0, _ = next(iter(data_loader))
     
-    imshow(x_0)
+    #imshow(x_0)
     
     
     print(os.cpu_count())

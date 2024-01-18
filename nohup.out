@@ -1,152 +1,1296 @@
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/036.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/001.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/035.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/032.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/039.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/011.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/012.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/021.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/013.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/019.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/009.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/028.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/007.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/003.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/023.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/016.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/033.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/025.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/014.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/034.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/010.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/000.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/037.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/004.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/026.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/022.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/027.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/031.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/024.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/006.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/029.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/005.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/008.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/038.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/002.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/030.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/020.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/018.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/015.png
-label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/good/017.png
-['/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/250.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/372.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/122.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/192.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/320.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/146.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/006.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/239.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/182.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/296.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/123.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/234.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/377.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/292.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/386.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/hole/011.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/332.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/121.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/284.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/069.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/210.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/258.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/crack/017.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/341.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/357.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/209.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/052.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/059.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/374.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/275.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/298.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/100.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/230.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/008.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/257.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/222.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/304.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/349.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/375.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/cut/005.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/095.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/038.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/291.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/353.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/325.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/371.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/073.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/132.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/317.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/153.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/316.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/287.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/247.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/383.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/355.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/063.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/255.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/305.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/009.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/270.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/238.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/219.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/015.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/102.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/103.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/336.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/240.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/crack/000.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/145.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/hole/002.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/228.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/172.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/268.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/crack/008.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/201.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/crack/011.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/cut/015.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/042.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/118.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/print/012.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/159.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/096.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/hole/008.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/358.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/027.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/111.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/150.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/080.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/142.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/279.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/231.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/237.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/367.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/127.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/351.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/364.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/117.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/109.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/079.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/256.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/267.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/108.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/066.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/hole/015.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/269.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/136.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/380.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/381.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/crack/013.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/139.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/048.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/327.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/158.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/047.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/312.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/333.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/000.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/054.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/039.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/085.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/213.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/156.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/288.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/053.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/105.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/083.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/315.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/070.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/363.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/128.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/169.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/321.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/181.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/203.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/print/011.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/hole/010.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/115.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/313.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/144.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/148.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/014.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/065.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/286.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/017.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/295.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/290.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/113.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/235.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/264.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/161.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/177.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/252.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/002.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/crack/001.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/354.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/205.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/cut/006.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/198.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/330.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/170.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/366.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/175.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/224.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/379.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/384.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/154.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/214.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/028.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/259.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/011.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/040.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/061.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/crack/006.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/print/004.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/387.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/140.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/hole/014.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/195.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/print/015.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/189.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/266.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/324.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/141.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/225.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/031.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/183.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/crack/010.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/390.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/254.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/037.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/216.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/125.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/print/005.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/hole/016.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/211.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/340.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/036.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/199.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/167.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/112.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/173.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/180.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/098.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/162.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/359.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/134.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/329.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/361.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/119.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/155.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/126.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/094.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/106.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/041.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/337.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/091.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/276.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/246.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/016.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/261.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/370.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/135.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/164.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/202.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/023.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/print/008.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/026.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/204.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/347.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/086.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/193.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/046.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/138.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/186.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/221.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/068.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/024.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/043.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/388.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/178.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/107.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/365.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/350.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/362.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/088.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/307.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/344.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/360.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/280.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/055.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/303.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/212.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/206.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/338.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/200.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/cut/007.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/129.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/190.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/025.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/075.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/163.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/149.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/297.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/346.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/143.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/034.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/389.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/130.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/260.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/309.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/319.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/356.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/249.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/067.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/019.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/179.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/147.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/131.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/236.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/326.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/285.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/229.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/089.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/012.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/244.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/005.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/308.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/345.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/cut/004.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/215.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/283.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/271.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/124.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/232.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/217.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/110.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/print/001.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/013.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/328.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/187.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/hole/017.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/176.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/272.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/058.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/339.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/029.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/082.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/207.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/074.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/194.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/010.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/093.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/369.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/301.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/226.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/293.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/018.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/160.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/133.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/323.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/273.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/184.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/165.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/077.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/045.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/233.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/032.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/cut/001.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/294.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/282.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/099.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/376.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/300.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/218.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/262.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/253.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/157.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/090.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/373.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/crack/002.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/033.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/352.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/051.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/314.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/084.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/196.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/020.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/220.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/289.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/191.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/277.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/382.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/242.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/151.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/104.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/057.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/120.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/hole/000.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/044.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/060.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/050.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/248.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/274.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/188.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/101.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/378.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/223.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/152.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/322.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/174.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/334.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/245.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/021.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/299.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/072.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/263.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/227.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/306.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/test/print/002.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/003.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/092.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/hazelnut/train/good/168.png']
+Traceback (most recent call last):
+  File "/home/bule/projects/inpainting-transformer/main.py", line 77, in <module>
+    train_loader, valid_loader = MVTecAD_loader(args.image_dir, args.image_size, args.train_ratio, args.batch_size, num_workers=8, is_inference=False,contamination=args.contamination)
+  File "/home/bule/projects/inpainting-transformer/dataset.py", line 99, in MVTecAD_loader
+    test_label_list = [make_test_label(test_imgdir, test_labdir, x, image_size) for x in test_image_list]
+  File "/home/bule/projects/inpainting-transformer/dataset.py", line 99, in <listcomp>
+    test_label_list = [make_test_label(test_imgdir, test_labdir, x, image_size) for x in test_image_list]
+  File "/home/bule/projects/inpainting-transformer/utils.py", line 27, in make_test_label
+    label = cv2.resize(cv2.imread(test_labpath, cv2.IMREAD_GRAYSCALE), img_size, interpolation=cv2.INTER_NEAREST)
+cv2.error: OpenCV(4.9.0) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - Can't parse 'dsize'. Expected sequence length 2, got 9
+>  - Can't parse 'dsize'. Expected sequence length 2, got 9
+
+Traceback (most recent call last):
+  File "main.py", line 14, in <module>
+    from dataset import MVTecAD_loader
+  File "/home/bule/projects/inpainting-transformer/dataset.py", line 4, in <module>
+    from albumentations.augmentations.geometric.transforms import ShiftScaleRotate
+ModuleNotFoundError: No module named 'albumentations'
+image_dir /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable
+image_size (256, 256)
+num_epochs 2000
+batch_size 256
+lr 0.0001
+train_ratio 0.8
+seed 1234
+pretrained None
+ckpt ./ckpt
+is_infer False
+contamination False
+results ./ckpt/results
+False
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cable_swap/001_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cable_swap/011_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cable_swap/009_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cable_swap/007_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cable_swap/003_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cable_swap/010_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cable_swap/000_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cable_swap/004_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cable_swap/006_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cable_swap/005_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cable_swap/008_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cable_swap/002_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/missing_wire/001_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/missing_wire/009_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/missing_wire/007_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/missing_wire/003_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/missing_wire/000_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/missing_wire/004_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/missing_wire/006_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/missing_wire/005_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/missing_wire/008_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/missing_wire/002_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/poke_insulation/001_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/poke_insulation/009_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/poke_insulation/007_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/poke_insulation/003_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/poke_insulation/000_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/poke_insulation/004_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/poke_insulation/006_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/poke_insulation/005_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/poke_insulation/008_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/poke_insulation/002_mask.png (256, 256)
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/054.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/036.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/001.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/049.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/035.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/032.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/051.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/039.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/011.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/012.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/021.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/013.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/045.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/019.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/009.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/041.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/028.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/007.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/055.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/003.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/023.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/016.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/048.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/033.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/025.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/014.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/034.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/010.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/000.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/037.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/047.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/044.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/056.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/004.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/026.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/022.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/027.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/042.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/053.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/031.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/024.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/043.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/050.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/052.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/057.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/006.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/029.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/005.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/046.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/008.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/038.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/002.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/030.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/040.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/020.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/018.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/015.png
+label not exists:  /home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/test/good/017.png
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/missing_cable/001_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/missing_cable/011_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/missing_cable/009_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/missing_cable/007_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/missing_cable/003_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/missing_cable/010_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/missing_cable/000_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/missing_cable/004_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/missing_cable/006_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/missing_cable/005_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/missing_cable/008_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/missing_cable/002_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/combined/001_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/combined/009_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/combined/007_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/combined/003_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/combined/010_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/combined/000_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/combined/004_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/combined/006_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/combined/005_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/combined/008_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/combined/002_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/bent_wire/001_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/bent_wire/011_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/bent_wire/012_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/bent_wire/009_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/bent_wire/007_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/bent_wire/003_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/bent_wire/010_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/bent_wire/000_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/bent_wire/004_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/bent_wire/006_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/bent_wire/005_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/bent_wire/008_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/bent_wire/002_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cut_outer_insulation/001_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cut_outer_insulation/009_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cut_outer_insulation/007_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cut_outer_insulation/003_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cut_outer_insulation/000_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cut_outer_insulation/004_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cut_outer_insulation/006_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cut_outer_insulation/005_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cut_outer_insulation/008_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cut_outer_insulation/002_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cut_inner_insulation/001_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cut_inner_insulation/011_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cut_inner_insulation/012_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cut_inner_insulation/013_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cut_inner_insulation/009_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cut_inner_insulation/007_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cut_inner_insulation/003_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cut_inner_insulation/010_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cut_inner_insulation/000_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cut_inner_insulation/004_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cut_inner_insulation/006_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cut_inner_insulation/005_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cut_inner_insulation/008_mask.png (256, 256)
+/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/ground_truth/cut_inner_insulation/002_mask.png (256, 256)
+['/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/103.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/156.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/176.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/111.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/086.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/061.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/095.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/183.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/089.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/001.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/146.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/051.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/143.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/218.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/203.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/134.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/027.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/189.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/065.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/181.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/055.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/024.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/062.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/207.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/182.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/088.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/007.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/092.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/127.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/046.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/160.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/119.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/191.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/005.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/186.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/020.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/214.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/141.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/162.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/102.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/213.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/031.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/040.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/030.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/126.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/080.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/060.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/221.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/115.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/073.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/153.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/142.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/217.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/078.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/021.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/219.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/180.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/097.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/057.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/154.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/204.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/090.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/009.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/223.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/177.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/167.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/163.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/023.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/216.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/082.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/140.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/069.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/169.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/045.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/211.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/006.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/197.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/132.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/178.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/071.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/125.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/036.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/157.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/026.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/192.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/039.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/145.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/131.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/208.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/179.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/035.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/130.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/074.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/106.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/059.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/158.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/042.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/159.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/048.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/000.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/018.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/222.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/064.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/123.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/077.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/129.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/172.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/101.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/120.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/019.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/150.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/122.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/096.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/067.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/210.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/209.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/002.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/033.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/187.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/164.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/188.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/112.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/113.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/194.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/212.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/107.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/012.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/136.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/003.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/155.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/152.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/070.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/116.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/041.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/011.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/029.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/206.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/063.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/058.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/144.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/068.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/050.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/028.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/147.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/043.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/133.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/066.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/205.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/161.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/220.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/190.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/170.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/200.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/196.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/004.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/110.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/118.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/168.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/016.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/075.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/084.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/165.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/017.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/171.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/202.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/215.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/198.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/025.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/104.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/105.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/038.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/094.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/099.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/015.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/149.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/079.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/008.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/044.png', '/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable/train/good/098.png']
 cuda
 Device count:  1
-epoch [1/200], train loss: 0.008324, valid_loss: 1.458694, best_loss: 1.458694
-epoch [2/200], train loss: 0.007292, valid_loss: 1.458694, best_loss: 1.458694
-epoch [3/200], train loss: 0.006587, valid_loss: 1.458694, best_loss: 1.458694
-epoch [4/200], train loss: 0.005951, valid_loss: 1.458694, best_loss: 1.458694
-epoch [5/200], train loss: 0.005403, valid_loss: 1.458694, best_loss: 1.458694
-epoch [6/200], train loss: 0.004934, valid_loss: 1.458694, best_loss: 1.458694
-epoch [7/200], train loss: 0.004430, valid_loss: 1.458694, best_loss: 1.458694
-epoch [8/200], train loss: 0.003993, valid_loss: 1.458694, best_loss: 1.458694
-epoch [9/200], train loss: 0.003503, valid_loss: 1.458694, best_loss: 1.458694
-epoch [10/200], train loss: 0.003288, valid_loss: 1.458694, best_loss: 1.458694
-epoch [11/200], train loss: 0.003194, valid_loss: 1.458694, best_loss: 1.458694
-epoch [12/200], train loss: 0.003240, valid_loss: 1.458694, best_loss: 1.458694
-epoch [13/200], train loss: 0.003159, valid_loss: 1.458694, best_loss: 1.458694
-epoch [14/200], train loss: 0.002959, valid_loss: 1.458694, best_loss: 1.458694
-epoch [15/200], train loss: 0.002920, valid_loss: 1.458694, best_loss: 1.458694
-epoch [16/200], train loss: 0.002835, valid_loss: 1.458694, best_loss: 1.458694
-epoch [17/200], train loss: 0.002803, valid_loss: 1.458694, best_loss: 1.458694
-epoch [18/200], train loss: 0.002646, valid_loss: 1.458694, best_loss: 1.458694
-epoch [19/200], train loss: 0.002551, valid_loss: 1.458694, best_loss: 1.458694
-epoch [20/200], train loss: 0.002625, valid_loss: 1.458694, best_loss: 1.458694
-epoch [21/200], train loss: 0.002503, valid_loss: 1.458694, best_loss: 1.458694
-epoch [22/200], train loss: 0.002502, valid_loss: 1.458694, best_loss: 1.458694
-epoch [23/200], train loss: 0.002378, valid_loss: 1.458694, best_loss: 1.458694
-epoch [24/200], train loss: 0.002390, valid_loss: 1.458694, best_loss: 1.458694
-epoch [25/200], train loss: 0.002610, valid_loss: 1.458694, best_loss: 1.458694
-epoch [26/200], train loss: 0.002626, valid_loss: 1.458694, best_loss: 1.458694
-epoch [27/200], train loss: 0.002486, valid_loss: 1.458694, best_loss: 1.458694
-epoch [28/200], train loss: 0.002410, valid_loss: 1.458694, best_loss: 1.458694
-epoch [29/200], train loss: 0.002491, valid_loss: 1.458694, best_loss: 1.458694
-epoch [30/200], train loss: 0.002533, valid_loss: 1.458694, best_loss: 1.458694
-epoch [31/200], train loss: 0.002401, valid_loss: 1.458694, best_loss: 1.458694
-epoch [32/200], train loss: 0.002423, valid_loss: 1.458694, best_loss: 1.458694
-epoch [33/200], train loss: 0.002246, valid_loss: 1.458694, best_loss: 1.458694
-epoch [34/200], train loss: 0.002434, valid_loss: 1.458694, best_loss: 1.458694
-epoch [35/200], train loss: 0.002257, valid_loss: 1.458694, best_loss: 1.458694
-epoch [36/200], train loss: 0.002262, valid_loss: 1.458694, best_loss: 1.458694
-epoch [37/200], train loss: 0.002396, valid_loss: 1.458694, best_loss: 1.458694
-epoch [38/200], train loss: 0.002335, valid_loss: 1.458694, best_loss: 1.458694
-epoch [39/200], train loss: 0.002373, valid_loss: 1.458694, best_loss: 1.458694
-epoch [40/200], train loss: 0.002258, valid_loss: 1.458694, best_loss: 1.458694
-epoch [41/200], train loss: 0.002237, valid_loss: 1.458694, best_loss: 1.458694
-epoch [42/200], train loss: 0.002333, valid_loss: 1.458694, best_loss: 1.458694
-epoch [43/200], train loss: 0.002223, valid_loss: 1.458694, best_loss: 1.458694
-epoch [44/200], train loss: 0.002300, valid_loss: 1.458694, best_loss: 1.458694
-epoch [45/200], train loss: 0.002262, valid_loss: 1.458694, best_loss: 1.458694
-epoch [46/200], train loss: 0.002356, valid_loss: 1.458694, best_loss: 1.458694
-epoch [47/200], train loss: 0.002372, valid_loss: 1.458694, best_loss: 1.458694
-epoch [48/200], train loss: 0.002344, valid_loss: 1.458694, best_loss: 1.458694
-epoch [49/200], train loss: 0.002284, valid_loss: 1.458694, best_loss: 1.458694
-epoch [50/200], train loss: 0.002318, valid_loss: 1.458694, best_loss: 1.458694
-epoch [51/200], train loss: 0.002310, valid_loss: 1.458694, best_loss: 1.458694
-epoch [52/200], train loss: 0.002212, valid_loss: 1.458694, best_loss: 1.458694
-epoch [53/200], train loss: 0.002258, valid_loss: 1.458694, best_loss: 1.458694
-epoch [54/200], train loss: 0.002293, valid_loss: 1.458694, best_loss: 1.458694
-epoch [55/200], train loss: 0.002286, valid_loss: 1.458694, best_loss: 1.458694
-epoch [56/200], train loss: 0.002466, valid_loss: 1.458694, best_loss: 1.458694
-epoch [57/200], train loss: 0.002320, valid_loss: 1.458694, best_loss: 1.458694
-epoch [58/200], train loss: 0.002275, valid_loss: 1.458694, best_loss: 1.458694
-epoch [59/200], train loss: 0.002188, valid_loss: 1.458694, best_loss: 1.458694
-epoch [60/200], train loss: 0.002309, valid_loss: 1.458694, best_loss: 1.458694
-epoch [61/200], train loss: 0.002355, valid_loss: 1.458694, best_loss: 1.458694
-epoch [62/200], train loss: 0.002012, valid_loss: 1.458694, best_loss: 1.458694
-epoch [63/200], train loss: 0.002285, valid_loss: 1.458694, best_loss: 1.458694
-epoch [64/200], train loss: 0.002160, valid_loss: 1.458694, best_loss: 1.458694
-epoch [65/200], train loss: 0.002225, valid_loss: 1.458694, best_loss: 1.458694
-epoch [66/200], train loss: 0.002271, valid_loss: 1.458694, best_loss: 1.458694
-epoch [67/200], train loss: 0.002289, valid_loss: 1.458694, best_loss: 1.458694
-epoch [68/200], train loss: 0.002265, valid_loss: 1.458694, best_loss: 1.458694
-epoch [69/200], train loss: 0.002484, valid_loss: 1.458694, best_loss: 1.458694
-epoch [70/200], train loss: 0.002230, valid_loss: 1.458694, best_loss: 1.458694
-epoch [71/200], train loss: 0.002368, valid_loss: 1.458694, best_loss: 1.458694
-epoch [72/200], train loss: 0.002177, valid_loss: 1.458694, best_loss: 1.458694
-epoch [73/200], train loss: 0.002319, valid_loss: 1.458694, best_loss: 1.458694
-epoch [74/200], train loss: 0.002177, valid_loss: 1.458694, best_loss: 1.458694
-epoch [75/200], train loss: 0.002082, valid_loss: 1.458694, best_loss: 1.458694
-epoch [76/200], train loss: 0.002134, valid_loss: 1.458694, best_loss: 1.458694
-epoch [77/200], train loss: 0.002217, valid_loss: 1.458694, best_loss: 1.458694
-epoch [78/200], train loss: 0.002416, valid_loss: 1.458694, best_loss: 1.458694
-epoch [79/200], train loss: 0.002381, valid_loss: 1.458694, best_loss: 1.458694
-epoch [80/200], train loss: 0.002080, valid_loss: 1.458694, best_loss: 1.458694
-epoch [81/200], train loss: 0.002378, valid_loss: 1.458694, best_loss: 1.458694
-epoch [82/200], train loss: 0.002202, valid_loss: 1.458694, best_loss: 1.458694
-epoch [83/200], train loss: 0.002080, valid_loss: 1.458694, best_loss: 1.458694
-epoch [84/200], train loss: 0.002128, valid_loss: 1.458694, best_loss: 1.458694
-epoch [85/200], train loss: 0.002029, valid_loss: 1.458694, best_loss: 1.458694
-epoch [86/200], train loss: 0.002163, valid_loss: 1.458694, best_loss: 1.458694
-epoch [87/200], train loss: 0.002080, valid_loss: 1.458694, best_loss: 1.458694
-epoch [88/200], train loss: 0.001981, valid_loss: 1.458694, best_loss: 1.458694
-epoch [89/200], train loss: 0.001900, valid_loss: 1.458694, best_loss: 1.458694
-epoch [90/200], train loss: 0.001696, valid_loss: 1.458694, best_loss: 1.458694
-epoch [91/200], train loss: 0.001840, valid_loss: 1.458694, best_loss: 1.458694
-epoch [92/200], train loss: 0.001685, valid_loss: 1.458694, best_loss: 1.458694
-epoch [93/200], train loss: 0.001979, valid_loss: 1.458694, best_loss: 1.458694
-epoch [94/200], train loss: 0.001863, valid_loss: 1.458694, best_loss: 1.458694
-epoch [95/200], train loss: 0.001764, valid_loss: 1.458694, best_loss: 1.458694
-epoch [96/200], train loss: 0.001784, valid_loss: 1.458694, best_loss: 1.458694
-epoch [97/200], train loss: 0.001665, valid_loss: 1.458694, best_loss: 1.458694
-epoch [98/200], train loss: 0.001765, valid_loss: 1.458694, best_loss: 1.458694
-epoch [99/200], train loss: 0.001631, valid_loss: 1.458694, best_loss: 1.458694
-epoch [100/200], train loss: 0.001807, valid_loss: 1.458694, best_loss: 1.458694
-epoch [101/200], train loss: 0.001617, valid_loss: 0.326989, best_loss: 0.326989
-epoch [102/200], train loss: 0.001504, valid_loss: 0.326989, best_loss: 0.326989
-epoch [103/200], train loss: 0.001611, valid_loss: 0.326989, best_loss: 0.326989
-epoch [104/200], train loss: 0.001501, valid_loss: 0.326989, best_loss: 0.326989
-epoch [105/200], train loss: 0.001405, valid_loss: 0.326989, best_loss: 0.326989
-epoch [106/200], train loss: 0.001479, valid_loss: 0.326989, best_loss: 0.326989
-epoch [107/200], train loss: 0.001320, valid_loss: 0.326989, best_loss: 0.326989
-epoch [108/200], train loss: 0.001395, valid_loss: 0.326989, best_loss: 0.326989
-epoch [109/200], train loss: 0.001532, valid_loss: 0.326989, best_loss: 0.326989
+epoch [1/2000], train loss: 0.009857, valid_loss: 1.602082, best_loss: 1.602082
+epoch [2/2000], train loss: 0.008883, valid_loss: 1.602082, best_loss: 1.602082
+epoch [3/2000], train loss: 0.008199, valid_loss: 1.602082, best_loss: 1.602082
+epoch [4/2000], train loss: 0.007751, valid_loss: 1.602082, best_loss: 1.602082
+epoch [5/2000], train loss: 0.007444, valid_loss: 1.602082, best_loss: 1.602082
+epoch [6/2000], train loss: 0.006842, valid_loss: 1.602082, best_loss: 1.602082
+epoch [7/2000], train loss: 0.006348, valid_loss: 1.602082, best_loss: 1.602082
+epoch [8/2000], train loss: 0.006186, valid_loss: 1.602082, best_loss: 1.602082
+epoch [9/2000], train loss: 0.005886, valid_loss: 1.602082, best_loss: 1.602082
+epoch [10/2000], train loss: 0.005480, valid_loss: 1.602082, best_loss: 1.602082
+epoch [11/2000], train loss: 0.005362, valid_loss: 1.602082, best_loss: 1.602082
+epoch [12/2000], train loss: 0.004954, valid_loss: 1.602082, best_loss: 1.602082
+epoch [13/2000], train loss: 0.004833, valid_loss: 1.602082, best_loss: 1.602082
+epoch [14/2000], train loss: 0.004691, valid_loss: 1.602082, best_loss: 1.602082
+epoch [15/2000], train loss: 0.004343, valid_loss: 1.602082, best_loss: 1.602082
+epoch [16/2000], train loss: 0.004279, valid_loss: 1.602082, best_loss: 1.602082
+epoch [17/2000], train loss: 0.004300, valid_loss: 1.602082, best_loss: 1.602082
+epoch [18/2000], train loss: 0.004134, valid_loss: 1.602082, best_loss: 1.602082
+epoch [19/2000], train loss: 0.003705, valid_loss: 1.602082, best_loss: 1.602082
+epoch [20/2000], train loss: 0.003882, valid_loss: 1.602082, best_loss: 1.602082
+epoch [21/2000], train loss: 0.004017, valid_loss: 1.602082, best_loss: 1.602082
+epoch [22/2000], train loss: 0.003916, valid_loss: 1.602082, best_loss: 1.602082
+epoch [23/2000], train loss: 0.004066, valid_loss: 1.602082, best_loss: 1.602082
+epoch [24/2000], train loss: 0.003937, valid_loss: 1.602082, best_loss: 1.602082
+epoch [25/2000], train loss: 0.003816, valid_loss: 1.602082, best_loss: 1.602082
+epoch [26/2000], train loss: 0.003861, valid_loss: 1.602082, best_loss: 1.602082
+epoch [27/2000], train loss: 0.004017, valid_loss: 1.602082, best_loss: 1.602082
+epoch [28/2000], train loss: 0.003849, valid_loss: 1.602082, best_loss: 1.602082
+epoch [29/2000], train loss: 0.003811, valid_loss: 1.602082, best_loss: 1.602082
+epoch [30/2000], train loss: 0.003929, valid_loss: 1.602082, best_loss: 1.602082
+epoch [31/2000], train loss: 0.003864, valid_loss: 1.602082, best_loss: 1.602082
+epoch [32/2000], train loss: 0.003745, valid_loss: 1.602082, best_loss: 1.602082
+epoch [33/2000], train loss: 0.003613, valid_loss: 1.602082, best_loss: 1.602082
+epoch [34/2000], train loss: 0.003668, valid_loss: 1.602082, best_loss: 1.602082
+epoch [35/2000], train loss: 0.003658, valid_loss: 1.602082, best_loss: 1.602082
+epoch [36/2000], train loss: 0.003793, valid_loss: 1.602082, best_loss: 1.602082
+epoch [37/2000], train loss: 0.003874, valid_loss: 1.602082, best_loss: 1.602082
+epoch [38/2000], train loss: 0.003703, valid_loss: 1.602082, best_loss: 1.602082
+epoch [39/2000], train loss: 0.003754, valid_loss: 1.602082, best_loss: 1.602082
+epoch [40/2000], train loss: 0.003605, valid_loss: 1.602082, best_loss: 1.602082
+epoch [41/2000], train loss: 0.003723, valid_loss: 1.602082, best_loss: 1.602082
+epoch [42/2000], train loss: 0.003581, valid_loss: 1.602082, best_loss: 1.602082
+epoch [43/2000], train loss: 0.003714, valid_loss: 1.602082, best_loss: 1.602082
+epoch [44/2000], train loss: 0.003763, valid_loss: 1.602082, best_loss: 1.602082
+epoch [45/2000], train loss: 0.003769, valid_loss: 1.602082, best_loss: 1.602082
+epoch [46/2000], train loss: 0.003606, valid_loss: 1.602082, best_loss: 1.602082
+epoch [47/2000], train loss: 0.003652, valid_loss: 1.602082, best_loss: 1.602082
+epoch [48/2000], train loss: 0.003727, valid_loss: 1.602082, best_loss: 1.602082
+epoch [49/2000], train loss: 0.003627, valid_loss: 1.602082, best_loss: 1.602082
+epoch [50/2000], train loss: 0.003582, valid_loss: 1.602082, best_loss: 1.602082
+epoch [51/2000], train loss: 0.003827, valid_loss: 1.602082, best_loss: 1.602082
+epoch [52/2000], train loss: 0.003810, valid_loss: 1.602082, best_loss: 1.602082
+epoch [53/2000], train loss: 0.003791, valid_loss: 1.602082, best_loss: 1.602082
+epoch [54/2000], train loss: 0.003746, valid_loss: 1.602082, best_loss: 1.602082
+epoch [55/2000], train loss: 0.003727, valid_loss: 1.602082, best_loss: 1.602082
+epoch [56/2000], train loss: 0.003697, valid_loss: 1.602082, best_loss: 1.602082
+epoch [57/2000], train loss: 0.003830, valid_loss: 1.602082, best_loss: 1.602082
+epoch [58/2000], train loss: 0.003813, valid_loss: 1.602082, best_loss: 1.602082
+epoch [59/2000], train loss: 0.003911, valid_loss: 1.602082, best_loss: 1.602082
+epoch [60/2000], train loss: 0.003543, valid_loss: 1.602082, best_loss: 1.602082
+epoch [61/2000], train loss: 0.003676, valid_loss: 1.602082, best_loss: 1.602082
+epoch [62/2000], train loss: 0.003622, valid_loss: 1.602082, best_loss: 1.602082
+epoch [63/2000], train loss: 0.003601, valid_loss: 1.602082, best_loss: 1.602082
+epoch [64/2000], train loss: 0.003882, valid_loss: 1.602082, best_loss: 1.602082
+epoch [65/2000], train loss: 0.003684, valid_loss: 1.602082, best_loss: 1.602082
+epoch [66/2000], train loss: 0.003581, valid_loss: 1.602082, best_loss: 1.602082
+epoch [67/2000], train loss: 0.003686, valid_loss: 1.602082, best_loss: 1.602082
+epoch [68/2000], train loss: 0.003585, valid_loss: 1.602082, best_loss: 1.602082
+epoch [69/2000], train loss: 0.003630, valid_loss: 1.602082, best_loss: 1.602082
+epoch [70/2000], train loss: 0.003670, valid_loss: 1.602082, best_loss: 1.602082
+epoch [71/2000], train loss: 0.003916, valid_loss: 1.602082, best_loss: 1.602082
+epoch [72/2000], train loss: 0.003713, valid_loss: 1.602082, best_loss: 1.602082
+epoch [73/2000], train loss: 0.003568, valid_loss: 1.602082, best_loss: 1.602082
+epoch [74/2000], train loss: 0.003584, valid_loss: 1.602082, best_loss: 1.602082
+epoch [75/2000], train loss: 0.003641, valid_loss: 1.602082, best_loss: 1.602082
+epoch [76/2000], train loss: 0.003573, valid_loss: 1.602082, best_loss: 1.602082
+epoch [77/2000], train loss: 0.003438, valid_loss: 1.602082, best_loss: 1.602082
+epoch [78/2000], train loss: 0.003618, valid_loss: 1.602082, best_loss: 1.602082
+epoch [79/2000], train loss: 0.003813, valid_loss: 1.602082, best_loss: 1.602082
+epoch [80/2000], train loss: 0.003647, valid_loss: 1.602082, best_loss: 1.602082
+epoch [81/2000], train loss: 0.003642, valid_loss: 1.602082, best_loss: 1.602082
+epoch [82/2000], train loss: 0.003765, valid_loss: 1.602082, best_loss: 1.602082
+epoch [83/2000], train loss: 0.003655, valid_loss: 1.602082, best_loss: 1.602082
+epoch [84/2000], train loss: 0.003658, valid_loss: 1.602082, best_loss: 1.602082
+epoch [85/2000], train loss: 0.003432, valid_loss: 1.602082, best_loss: 1.602082
+epoch [86/2000], train loss: 0.003681, valid_loss: 1.602082, best_loss: 1.602082
+epoch [87/2000], train loss: 0.003648, valid_loss: 1.602082, best_loss: 1.602082
+epoch [88/2000], train loss: 0.003768, valid_loss: 1.602082, best_loss: 1.602082
+epoch [89/2000], train loss: 0.003564, valid_loss: 1.602082, best_loss: 1.602082
+epoch [90/2000], train loss: 0.003475, valid_loss: 1.602082, best_loss: 1.602082
+epoch [91/2000], train loss: 0.003645, valid_loss: 1.602082, best_loss: 1.602082
+epoch [92/2000], train loss: 0.003511, valid_loss: 1.602082, best_loss: 1.602082
+epoch [93/2000], train loss: 0.003671, valid_loss: 1.602082, best_loss: 1.602082
+epoch [94/2000], train loss: 0.003589, valid_loss: 1.602082, best_loss: 1.602082
+epoch [95/2000], train loss: 0.003716, valid_loss: 1.602082, best_loss: 1.602082
+epoch [96/2000], train loss: 0.003474, valid_loss: 1.602082, best_loss: 1.602082
+epoch [97/2000], train loss: 0.003547, valid_loss: 1.602082, best_loss: 1.602082
+epoch [98/2000], train loss: 0.003644, valid_loss: 1.602082, best_loss: 1.602082
+epoch [99/2000], train loss: 0.003657, valid_loss: 1.602082, best_loss: 1.602082
+epoch [100/2000], train loss: 0.003614, valid_loss: 1.602082, best_loss: 1.602082
+epoch [101/2000], train loss: 0.003729, valid_loss: 0.554698, best_loss: 0.554698
+epoch [102/2000], train loss: 0.003276, valid_loss: 0.554698, best_loss: 0.554698
+epoch [103/2000], train loss: 0.003662, valid_loss: 0.554698, best_loss: 0.554698
+epoch [104/2000], train loss: 0.003507, valid_loss: 0.554698, best_loss: 0.554698
+epoch [105/2000], train loss: 0.003754, valid_loss: 0.554698, best_loss: 0.554698
+epoch [106/2000], train loss: 0.003517, valid_loss: 0.554698, best_loss: 0.554698
+epoch [107/2000], train loss: 0.003520, valid_loss: 0.554698, best_loss: 0.554698
+epoch [108/2000], train loss: 0.003716, valid_loss: 0.554698, best_loss: 0.554698
+epoch [109/2000], train loss: 0.003647, valid_loss: 0.554698, best_loss: 0.554698
+epoch [110/2000], train loss: 0.003641, valid_loss: 0.554698, best_loss: 0.554698
+epoch [111/2000], train loss: 0.003683, valid_loss: 0.554698, best_loss: 0.554698
+epoch [112/2000], train loss: 0.003598, valid_loss: 0.554698, best_loss: 0.554698
+epoch [113/2000], train loss: 0.003820, valid_loss: 0.554698, best_loss: 0.554698
+epoch [114/2000], train loss: 0.003759, valid_loss: 0.554698, best_loss: 0.554698
+epoch [115/2000], train loss: 0.003630, valid_loss: 0.554698, best_loss: 0.554698
+epoch [116/2000], train loss: 0.003624, valid_loss: 0.554698, best_loss: 0.554698
+epoch [117/2000], train loss: 0.003506, valid_loss: 0.554698, best_loss: 0.554698
+epoch [118/2000], train loss: 0.003736, valid_loss: 0.554698, best_loss: 0.554698
+epoch [119/2000], train loss: 0.003558, valid_loss: 0.554698, best_loss: 0.554698
+epoch [120/2000], train loss: 0.003596, valid_loss: 0.554698, best_loss: 0.554698
+epoch [121/2000], train loss: 0.003645, valid_loss: 0.554698, best_loss: 0.554698
+epoch [122/2000], train loss: 0.003622, valid_loss: 0.554698, best_loss: 0.554698
+epoch [123/2000], train loss: 0.003447, valid_loss: 0.554698, best_loss: 0.554698
+epoch [124/2000], train loss: 0.003684, valid_loss: 0.554698, best_loss: 0.554698
+epoch [125/2000], train loss: 0.003605, valid_loss: 0.554698, best_loss: 0.554698
+epoch [126/2000], train loss: 0.003583, valid_loss: 0.554698, best_loss: 0.554698
+epoch [127/2000], train loss: 0.003596, valid_loss: 0.554698, best_loss: 0.554698
+epoch [128/2000], train loss: 0.003569, valid_loss: 0.554698, best_loss: 0.554698
+epoch [129/2000], train loss: 0.003674, valid_loss: 0.554698, best_loss: 0.554698
+epoch [130/2000], train loss: 0.003724, valid_loss: 0.554698, best_loss: 0.554698
+epoch [131/2000], train loss: 0.003695, valid_loss: 0.554698, best_loss: 0.554698
+epoch [132/2000], train loss: 0.003457, valid_loss: 0.554698, best_loss: 0.554698
+epoch [133/2000], train loss: 0.003618, valid_loss: 0.554698, best_loss: 0.554698
+epoch [134/2000], train loss: 0.003732, valid_loss: 0.554698, best_loss: 0.554698
+epoch [135/2000], train loss: 0.003379, valid_loss: 0.554698, best_loss: 0.554698
+epoch [136/2000], train loss: 0.003599, valid_loss: 0.554698, best_loss: 0.554698
+epoch [137/2000], train loss: 0.003567, valid_loss: 0.554698, best_loss: 0.554698
+epoch [138/2000], train loss: 0.003649, valid_loss: 0.554698, best_loss: 0.554698
+epoch [139/2000], train loss: 0.003616, valid_loss: 0.554698, best_loss: 0.554698
+epoch [140/2000], train loss: 0.003564, valid_loss: 0.554698, best_loss: 0.554698
+epoch [141/2000], train loss: 0.003660, valid_loss: 0.554698, best_loss: 0.554698
+epoch [142/2000], train loss: 0.003509, valid_loss: 0.554698, best_loss: 0.554698
+epoch [143/2000], train loss: 0.003368, valid_loss: 0.554698, best_loss: 0.554698
+epoch [144/2000], train loss: 0.003582, valid_loss: 0.554698, best_loss: 0.554698
+epoch [145/2000], train loss: 0.003725, valid_loss: 0.554698, best_loss: 0.554698
+epoch [146/2000], train loss: 0.003607, valid_loss: 0.554698, best_loss: 0.554698
+epoch [147/2000], train loss: 0.003566, valid_loss: 0.554698, best_loss: 0.554698
+epoch [148/2000], train loss: 0.003749, valid_loss: 0.554698, best_loss: 0.554698
+epoch [149/2000], train loss: 0.003590, valid_loss: 0.554698, best_loss: 0.554698
+epoch [150/2000], train loss: 0.003602, valid_loss: 0.554698, best_loss: 0.554698
+epoch [151/2000], train loss: 0.003668, valid_loss: 0.554698, best_loss: 0.554698
+epoch [152/2000], train loss: 0.003548, valid_loss: 0.554698, best_loss: 0.554698
+epoch [153/2000], train loss: 0.003512, valid_loss: 0.554698, best_loss: 0.554698
+epoch [154/2000], train loss: 0.003544, valid_loss: 0.554698, best_loss: 0.554698
+epoch [155/2000], train loss: 0.003702, valid_loss: 0.554698, best_loss: 0.554698
+epoch [156/2000], train loss: 0.003584, valid_loss: 0.554698, best_loss: 0.554698
+epoch [157/2000], train loss: 0.003511, valid_loss: 0.554698, best_loss: 0.554698
+epoch [158/2000], train loss: 0.003533, valid_loss: 0.554698, best_loss: 0.554698
+epoch [159/2000], train loss: 0.003773, valid_loss: 0.554698, best_loss: 0.554698
+epoch [160/2000], train loss: 0.003683, valid_loss: 0.554698, best_loss: 0.554698
+epoch [161/2000], train loss: 0.003671, valid_loss: 0.554698, best_loss: 0.554698
+epoch [162/2000], train loss: 0.003599, valid_loss: 0.554698, best_loss: 0.554698
+epoch [163/2000], train loss: 0.003635, valid_loss: 0.554698, best_loss: 0.554698
+epoch [164/2000], train loss: 0.003468, valid_loss: 0.554698, best_loss: 0.554698
+epoch [165/2000], train loss: 0.003562, valid_loss: 0.554698, best_loss: 0.554698
+epoch [166/2000], train loss: 0.003532, valid_loss: 0.554698, best_loss: 0.554698
+epoch [167/2000], train loss: 0.003576, valid_loss: 0.554698, best_loss: 0.554698
+epoch [168/2000], train loss: 0.003630, valid_loss: 0.554698, best_loss: 0.554698
+epoch [169/2000], train loss: 0.003886, valid_loss: 0.554698, best_loss: 0.554698
+epoch [170/2000], train loss: 0.003709, valid_loss: 0.554698, best_loss: 0.554698
+epoch [171/2000], train loss: 0.003531, valid_loss: 0.554698, best_loss: 0.554698
+epoch [172/2000], train loss: 0.003415, valid_loss: 0.554698, best_loss: 0.554698
+epoch [173/2000], train loss: 0.003394, valid_loss: 0.554698, best_loss: 0.554698
+epoch [174/2000], train loss: 0.003529, valid_loss: 0.554698, best_loss: 0.554698
+epoch [175/2000], train loss: 0.003648, valid_loss: 0.554698, best_loss: 0.554698
+epoch [176/2000], train loss: 0.003628, valid_loss: 0.554698, best_loss: 0.554698
+epoch [177/2000], train loss: 0.003547, valid_loss: 0.554698, best_loss: 0.554698
+epoch [178/2000], train loss: 0.003373, valid_loss: 0.554698, best_loss: 0.554698
+epoch [179/2000], train loss: 0.003444, valid_loss: 0.554698, best_loss: 0.554698
+epoch [180/2000], train loss: 0.003736, valid_loss: 0.554698, best_loss: 0.554698
+epoch [181/2000], train loss: 0.003492, valid_loss: 0.554698, best_loss: 0.554698
+epoch [182/2000], train loss: 0.003481, valid_loss: 0.554698, best_loss: 0.554698
+epoch [183/2000], train loss: 0.003658, valid_loss: 0.554698, best_loss: 0.554698
+epoch [184/2000], train loss: 0.003527, valid_loss: 0.554698, best_loss: 0.554698
+epoch [185/2000], train loss: 0.003240, valid_loss: 0.554698, best_loss: 0.554698
+epoch [186/2000], train loss: 0.003633, valid_loss: 0.554698, best_loss: 0.554698
+epoch [187/2000], train loss: 0.003538, valid_loss: 0.554698, best_loss: 0.554698
+epoch [188/2000], train loss: 0.003675, valid_loss: 0.554698, best_loss: 0.554698
+epoch [189/2000], train loss: 0.003741, valid_loss: 0.554698, best_loss: 0.554698
+epoch [190/2000], train loss: 0.003445, valid_loss: 0.554698, best_loss: 0.554698
+epoch [191/2000], train loss: 0.003748, valid_loss: 0.554698, best_loss: 0.554698
+epoch [192/2000], train loss: 0.003482, valid_loss: 0.554698, best_loss: 0.554698
+epoch [193/2000], train loss: 0.003541, valid_loss: 0.554698, best_loss: 0.554698
+epoch [194/2000], train loss: 0.003576, valid_loss: 0.554698, best_loss: 0.554698
+epoch [195/2000], train loss: 0.003784, valid_loss: 0.554698, best_loss: 0.554698
+epoch [196/2000], train loss: 0.003699, valid_loss: 0.554698, best_loss: 0.554698
+epoch [197/2000], train loss: 0.003557, valid_loss: 0.554698, best_loss: 0.554698
+epoch [198/2000], train loss: 0.003688, valid_loss: 0.554698, best_loss: 0.554698
+epoch [199/2000], train loss: 0.003725, valid_loss: 0.554698, best_loss: 0.554698
+epoch [200/2000], train loss: 0.003557, valid_loss: 0.554698, best_loss: 0.554698
+epoch [201/2000], train loss: 0.003492, valid_loss: 0.550216, best_loss: 0.550216
+epoch [202/2000], train loss: 0.003472, valid_loss: 0.550216, best_loss: 0.550216
+epoch [203/2000], train loss: 0.003707, valid_loss: 0.550216, best_loss: 0.550216
+epoch [204/2000], train loss: 0.003538, valid_loss: 0.550216, best_loss: 0.550216
+epoch [205/2000], train loss: 0.003616, valid_loss: 0.550216, best_loss: 0.550216
+epoch [206/2000], train loss: 0.003686, valid_loss: 0.550216, best_loss: 0.550216
+epoch [207/2000], train loss: 0.003716, valid_loss: 0.550216, best_loss: 0.550216
+epoch [208/2000], train loss: 0.003598, valid_loss: 0.550216, best_loss: 0.550216
+epoch [209/2000], train loss: 0.003576, valid_loss: 0.550216, best_loss: 0.550216
+epoch [210/2000], train loss: 0.003683, valid_loss: 0.550216, best_loss: 0.550216
+epoch [211/2000], train loss: 0.003723, valid_loss: 0.550216, best_loss: 0.550216
+epoch [212/2000], train loss: 0.003676, valid_loss: 0.550216, best_loss: 0.550216
+epoch [213/2000], train loss: 0.003549, valid_loss: 0.550216, best_loss: 0.550216
+epoch [214/2000], train loss: 0.003682, valid_loss: 0.550216, best_loss: 0.550216
+epoch [215/2000], train loss: 0.003590, valid_loss: 0.550216, best_loss: 0.550216
+epoch [216/2000], train loss: 0.003536, valid_loss: 0.550216, best_loss: 0.550216
+epoch [217/2000], train loss: 0.003693, valid_loss: 0.550216, best_loss: 0.550216
+epoch [218/2000], train loss: 0.003558, valid_loss: 0.550216, best_loss: 0.550216
+epoch [219/2000], train loss: 0.003468, valid_loss: 0.550216, best_loss: 0.550216
+epoch [220/2000], train loss: 0.003547, valid_loss: 0.550216, best_loss: 0.550216
+epoch [221/2000], train loss: 0.003491, valid_loss: 0.550216, best_loss: 0.550216
+epoch [222/2000], train loss: 0.003404, valid_loss: 0.550216, best_loss: 0.550216
+epoch [223/2000], train loss: 0.003462, valid_loss: 0.550216, best_loss: 0.550216
+epoch [224/2000], train loss: 0.003634, valid_loss: 0.550216, best_loss: 0.550216
+epoch [225/2000], train loss: 0.003492, valid_loss: 0.550216, best_loss: 0.550216
+epoch [226/2000], train loss: 0.003747, valid_loss: 0.550216, best_loss: 0.550216
+epoch [227/2000], train loss: 0.003459, valid_loss: 0.550216, best_loss: 0.550216
+epoch [228/2000], train loss: 0.003402, valid_loss: 0.550216, best_loss: 0.550216
+epoch [229/2000], train loss: 0.003374, valid_loss: 0.550216, best_loss: 0.550216
+epoch [230/2000], train loss: 0.003586, valid_loss: 0.550216, best_loss: 0.550216
+epoch [231/2000], train loss: 0.003556, valid_loss: 0.550216, best_loss: 0.550216
+epoch [232/2000], train loss: 0.003579, valid_loss: 0.550216, best_loss: 0.550216
+epoch [233/2000], train loss: 0.003674, valid_loss: 0.550216, best_loss: 0.550216
+epoch [234/2000], train loss: 0.003501, valid_loss: 0.550216, best_loss: 0.550216
+epoch [235/2000], train loss: 0.003589, valid_loss: 0.550216, best_loss: 0.550216
+epoch [236/2000], train loss: 0.003484, valid_loss: 0.550216, best_loss: 0.550216
+epoch [237/2000], train loss: 0.003398, valid_loss: 0.550216, best_loss: 0.550216
+epoch [238/2000], train loss: 0.003443, valid_loss: 0.550216, best_loss: 0.550216
+epoch [239/2000], train loss: 0.003609, valid_loss: 0.550216, best_loss: 0.550216
+epoch [240/2000], train loss: 0.003537, valid_loss: 0.550216, best_loss: 0.550216
+epoch [241/2000], train loss: 0.003535, valid_loss: 0.550216, best_loss: 0.550216
+epoch [242/2000], train loss: 0.003621, valid_loss: 0.550216, best_loss: 0.550216
+epoch [243/2000], train loss: 0.003459, valid_loss: 0.550216, best_loss: 0.550216
+epoch [244/2000], train loss: 0.003448, valid_loss: 0.550216, best_loss: 0.550216
+epoch [245/2000], train loss: 0.003479, valid_loss: 0.550216, best_loss: 0.550216
+epoch [246/2000], train loss: 0.003535, valid_loss: 0.550216, best_loss: 0.550216
+epoch [247/2000], train loss: 0.003596, valid_loss: 0.550216, best_loss: 0.550216
+epoch [248/2000], train loss: 0.003536, valid_loss: 0.550216, best_loss: 0.550216
+epoch [249/2000], train loss: 0.003337, valid_loss: 0.550216, best_loss: 0.550216
+epoch [250/2000], train loss: 0.003515, valid_loss: 0.550216, best_loss: 0.550216
+epoch [251/2000], train loss: 0.003465, valid_loss: 0.550216, best_loss: 0.550216
+epoch [252/2000], train loss: 0.003531, valid_loss: 0.550216, best_loss: 0.550216
+epoch [253/2000], train loss: 0.003615, valid_loss: 0.550216, best_loss: 0.550216
+epoch [254/2000], train loss: 0.003592, valid_loss: 0.550216, best_loss: 0.550216
+epoch [255/2000], train loss: 0.003468, valid_loss: 0.550216, best_loss: 0.550216
+epoch [256/2000], train loss: 0.003495, valid_loss: 0.550216, best_loss: 0.550216
+epoch [257/2000], train loss: 0.003522, valid_loss: 0.550216, best_loss: 0.550216
+epoch [258/2000], train loss: 0.003552, valid_loss: 0.550216, best_loss: 0.550216
+epoch [259/2000], train loss: 0.003512, valid_loss: 0.550216, best_loss: 0.550216
+epoch [260/2000], train loss: 0.003535, valid_loss: 0.550216, best_loss: 0.550216
+epoch [261/2000], train loss: 0.003479, valid_loss: 0.550216, best_loss: 0.550216
+epoch [262/2000], train loss: 0.003558, valid_loss: 0.550216, best_loss: 0.550216
+epoch [263/2000], train loss: 0.003401, valid_loss: 0.550216, best_loss: 0.550216
+epoch [264/2000], train loss: 0.003656, valid_loss: 0.550216, best_loss: 0.550216
+epoch [265/2000], train loss: 0.003490, valid_loss: 0.550216, best_loss: 0.550216
+epoch [266/2000], train loss: 0.003521, valid_loss: 0.550216, best_loss: 0.550216
+epoch [267/2000], train loss: 0.003592, valid_loss: 0.550216, best_loss: 0.550216
+epoch [268/2000], train loss: 0.003661, valid_loss: 0.550216, best_loss: 0.550216
+epoch [269/2000], train loss: 0.003541, valid_loss: 0.550216, best_loss: 0.550216
+epoch [270/2000], train loss: 0.003408, valid_loss: 0.550216, best_loss: 0.550216
+epoch [271/2000], train loss: 0.003518, valid_loss: 0.550216, best_loss: 0.550216
+epoch [272/2000], train loss: 0.003539, valid_loss: 0.550216, best_loss: 0.550216
+epoch [273/2000], train loss: 0.003419, valid_loss: 0.550216, best_loss: 0.550216
+epoch [274/2000], train loss: 0.003291, valid_loss: 0.550216, best_loss: 0.550216
+epoch [275/2000], train loss: 0.003451, valid_loss: 0.550216, best_loss: 0.550216
+epoch [276/2000], train loss: 0.003343, valid_loss: 0.550216, best_loss: 0.550216
+epoch [277/2000], train loss: 0.003220, valid_loss: 0.550216, best_loss: 0.550216
+epoch [278/2000], train loss: 0.003397, valid_loss: 0.550216, best_loss: 0.550216
+epoch [279/2000], train loss: 0.003404, valid_loss: 0.550216, best_loss: 0.550216
+epoch [280/2000], train loss: 0.003351, valid_loss: 0.550216, best_loss: 0.550216
+epoch [281/2000], train loss: 0.003465, valid_loss: 0.550216, best_loss: 0.550216
+epoch [282/2000], train loss: 0.003612, valid_loss: 0.550216, best_loss: 0.550216
+epoch [283/2000], train loss: 0.003432, valid_loss: 0.550216, best_loss: 0.550216
+epoch [284/2000], train loss: 0.003483, valid_loss: 0.550216, best_loss: 0.550216
+epoch [285/2000], train loss: 0.003383, valid_loss: 0.550216, best_loss: 0.550216
+epoch [286/2000], train loss: 0.003364, valid_loss: 0.550216, best_loss: 0.550216
+epoch [287/2000], train loss: 0.003636, valid_loss: 0.550216, best_loss: 0.550216
+epoch [288/2000], train loss: 0.003293, valid_loss: 0.550216, best_loss: 0.550216
+epoch [289/2000], train loss: 0.003309, valid_loss: 0.550216, best_loss: 0.550216
+epoch [290/2000], train loss: 0.003605, valid_loss: 0.550216, best_loss: 0.550216
+epoch [291/2000], train loss: 0.003251, valid_loss: 0.550216, best_loss: 0.550216
+epoch [292/2000], train loss: 0.003631, valid_loss: 0.550216, best_loss: 0.550216
+epoch [293/2000], train loss: 0.003315, valid_loss: 0.550216, best_loss: 0.550216
+epoch [294/2000], train loss: 0.003533, valid_loss: 0.550216, best_loss: 0.550216
+epoch [295/2000], train loss: 0.003534, valid_loss: 0.550216, best_loss: 0.550216
+epoch [296/2000], train loss: 0.003456, valid_loss: 0.550216, best_loss: 0.550216
+epoch [297/2000], train loss: 0.003521, valid_loss: 0.550216, best_loss: 0.550216
+epoch [298/2000], train loss: 0.003386, valid_loss: 0.550216, best_loss: 0.550216
+epoch [299/2000], train loss: 0.003352, valid_loss: 0.550216, best_loss: 0.550216
+epoch [300/2000], train loss: 0.003289, valid_loss: 0.550216, best_loss: 0.550216
+epoch [301/2000], train loss: 0.003610, valid_loss: 0.500417, best_loss: 0.500417
+epoch [302/2000], train loss: 0.003415, valid_loss: 0.500417, best_loss: 0.500417
+epoch [303/2000], train loss: 0.003516, valid_loss: 0.500417, best_loss: 0.500417
+epoch [304/2000], train loss: 0.003667, valid_loss: 0.500417, best_loss: 0.500417
+epoch [305/2000], train loss: 0.003525, valid_loss: 0.500417, best_loss: 0.500417
+epoch [306/2000], train loss: 0.003367, valid_loss: 0.500417, best_loss: 0.500417
+epoch [307/2000], train loss: 0.003330, valid_loss: 0.500417, best_loss: 0.500417
+epoch [308/2000], train loss: 0.003372, valid_loss: 0.500417, best_loss: 0.500417
+epoch [309/2000], train loss: 0.003453, valid_loss: 0.500417, best_loss: 0.500417
+epoch [310/2000], train loss: 0.003466, valid_loss: 0.500417, best_loss: 0.500417
+epoch [311/2000], train loss: 0.003329, valid_loss: 0.500417, best_loss: 0.500417
+epoch [312/2000], train loss: 0.003406, valid_loss: 0.500417, best_loss: 0.500417
+epoch [313/2000], train loss: 0.003375, valid_loss: 0.500417, best_loss: 0.500417
+epoch [314/2000], train loss: 0.003317, valid_loss: 0.500417, best_loss: 0.500417
+epoch [315/2000], train loss: 0.003618, valid_loss: 0.500417, best_loss: 0.500417
+epoch [316/2000], train loss: 0.003279, valid_loss: 0.500417, best_loss: 0.500417
+epoch [317/2000], train loss: 0.003310, valid_loss: 0.500417, best_loss: 0.500417
+epoch [318/2000], train loss: 0.003188, valid_loss: 0.500417, best_loss: 0.500417
+epoch [319/2000], train loss: 0.003323, valid_loss: 0.500417, best_loss: 0.500417
+epoch [320/2000], train loss: 0.003482, valid_loss: 0.500417, best_loss: 0.500417
+epoch [321/2000], train loss: 0.003385, valid_loss: 0.500417, best_loss: 0.500417
+epoch [322/2000], train loss: 0.003512, valid_loss: 0.500417, best_loss: 0.500417
+epoch [323/2000], train loss: 0.003425, valid_loss: 0.500417, best_loss: 0.500417
+epoch [324/2000], train loss: 0.003477, valid_loss: 0.500417, best_loss: 0.500417
+epoch [325/2000], train loss: 0.003323, valid_loss: 0.500417, best_loss: 0.500417
+epoch [326/2000], train loss: 0.003294, valid_loss: 0.500417, best_loss: 0.500417
+epoch [327/2000], train loss: 0.003529, valid_loss: 0.500417, best_loss: 0.500417
+epoch [328/2000], train loss: 0.003403, valid_loss: 0.500417, best_loss: 0.500417
+epoch [329/2000], train loss: 0.003184, valid_loss: 0.500417, best_loss: 0.500417
+epoch [330/2000], train loss: 0.003223, valid_loss: 0.500417, best_loss: 0.500417
+epoch [331/2000], train loss: 0.003256, valid_loss: 0.500417, best_loss: 0.500417
+epoch [332/2000], train loss: 0.003447, valid_loss: 0.500417, best_loss: 0.500417
+epoch [333/2000], train loss: 0.003418, valid_loss: 0.500417, best_loss: 0.500417
+epoch [334/2000], train loss: 0.003381, valid_loss: 0.500417, best_loss: 0.500417
+epoch [335/2000], train loss: 0.003555, valid_loss: 0.500417, best_loss: 0.500417
+epoch [336/2000], train loss: 0.003415, valid_loss: 0.500417, best_loss: 0.500417
+epoch [337/2000], train loss: 0.003475, valid_loss: 0.500417, best_loss: 0.500417
+epoch [338/2000], train loss: 0.003286, valid_loss: 0.500417, best_loss: 0.500417
+epoch [339/2000], train loss: 0.003347, valid_loss: 0.500417, best_loss: 0.500417
+epoch [340/2000], train loss: 0.003170, valid_loss: 0.500417, best_loss: 0.500417
+epoch [341/2000], train loss: 0.003248, valid_loss: 0.500417, best_loss: 0.500417
+epoch [342/2000], train loss: 0.003298, valid_loss: 0.500417, best_loss: 0.500417
+epoch [343/2000], train loss: 0.003382, valid_loss: 0.500417, best_loss: 0.500417
+epoch [344/2000], train loss: 0.003428, valid_loss: 0.500417, best_loss: 0.500417
+epoch [345/2000], train loss: 0.003446, valid_loss: 0.500417, best_loss: 0.500417
+epoch [346/2000], train loss: 0.003258, valid_loss: 0.500417, best_loss: 0.500417
+epoch [347/2000], train loss: 0.003298, valid_loss: 0.500417, best_loss: 0.500417
+epoch [348/2000], train loss: 0.003378, valid_loss: 0.500417, best_loss: 0.500417
+epoch [349/2000], train loss: 0.003477, valid_loss: 0.500417, best_loss: 0.500417
+epoch [350/2000], train loss: 0.003477, valid_loss: 0.500417, best_loss: 0.500417
+epoch [351/2000], train loss: 0.003420, valid_loss: 0.500417, best_loss: 0.500417
+epoch [352/2000], train loss: 0.003514, valid_loss: 0.500417, best_loss: 0.500417
+epoch [353/2000], train loss: 0.003428, valid_loss: 0.500417, best_loss: 0.500417
+epoch [354/2000], train loss: 0.003395, valid_loss: 0.500417, best_loss: 0.500417
+epoch [355/2000], train loss: 0.003438, valid_loss: 0.500417, best_loss: 0.500417
+epoch [356/2000], train loss: 0.003511, valid_loss: 0.500417, best_loss: 0.500417
+epoch [357/2000], train loss: 0.003492, valid_loss: 0.500417, best_loss: 0.500417
+epoch [358/2000], train loss: 0.003430, valid_loss: 0.500417, best_loss: 0.500417
+epoch [359/2000], train loss: 0.003233, valid_loss: 0.500417, best_loss: 0.500417
+epoch [360/2000], train loss: 0.003595, valid_loss: 0.500417, best_loss: 0.500417
+epoch [361/2000], train loss: 0.003515, valid_loss: 0.500417, best_loss: 0.500417
+epoch [362/2000], train loss: 0.003420, valid_loss: 0.500417, best_loss: 0.500417
+epoch [363/2000], train loss: 0.003521, valid_loss: 0.500417, best_loss: 0.500417
+epoch [364/2000], train loss: 0.003363, valid_loss: 0.500417, best_loss: 0.500417
+epoch [365/2000], train loss: 0.003330, valid_loss: 0.500417, best_loss: 0.500417
+epoch [366/2000], train loss: 0.003496, valid_loss: 0.500417, best_loss: 0.500417
+epoch [367/2000], train loss: 0.003476, valid_loss: 0.500417, best_loss: 0.500417
+epoch [368/2000], train loss: 0.003523, valid_loss: 0.500417, best_loss: 0.500417
+epoch [369/2000], train loss: 0.003524, valid_loss: 0.500417, best_loss: 0.500417
+epoch [370/2000], train loss: 0.003398, valid_loss: 0.500417, best_loss: 0.500417
+epoch [371/2000], train loss: 0.003310, valid_loss: 0.500417, best_loss: 0.500417
+epoch [372/2000], train loss: 0.003380, valid_loss: 0.500417, best_loss: 0.500417
+epoch [373/2000], train loss: 0.003686, valid_loss: 0.500417, best_loss: 0.500417
+epoch [374/2000], train loss: 0.003331, valid_loss: 0.500417, best_loss: 0.500417
+epoch [375/2000], train loss: 0.003394, valid_loss: 0.500417, best_loss: 0.500417
+epoch [376/2000], train loss: 0.003386, valid_loss: 0.500417, best_loss: 0.500417
+epoch [377/2000], train loss: 0.003321, valid_loss: 0.500417, best_loss: 0.500417
+epoch [378/2000], train loss: 0.003213, valid_loss: 0.500417, best_loss: 0.500417
+epoch [379/2000], train loss: 0.003360, valid_loss: 0.500417, best_loss: 0.500417
+epoch [380/2000], train loss: 0.003221, valid_loss: 0.500417, best_loss: 0.500417
+epoch [381/2000], train loss: 0.003345, valid_loss: 0.500417, best_loss: 0.500417
+epoch [382/2000], train loss: 0.003259, valid_loss: 0.500417, best_loss: 0.500417
+epoch [383/2000], train loss: 0.003307, valid_loss: 0.500417, best_loss: 0.500417
+epoch [384/2000], train loss: 0.003444, valid_loss: 0.500417, best_loss: 0.500417
+epoch [385/2000], train loss: 0.003363, valid_loss: 0.500417, best_loss: 0.500417
+epoch [386/2000], train loss: 0.003278, valid_loss: 0.500417, best_loss: 0.500417
+epoch [387/2000], train loss: 0.003293, valid_loss: 0.500417, best_loss: 0.500417
+epoch [388/2000], train loss: 0.003222, valid_loss: 0.500417, best_loss: 0.500417
+epoch [389/2000], train loss: 0.003594, valid_loss: 0.500417, best_loss: 0.500417
+epoch [390/2000], train loss: 0.003353, valid_loss: 0.500417, best_loss: 0.500417
+epoch [391/2000], train loss: 0.003187, valid_loss: 0.500417, best_loss: 0.500417
+epoch [392/2000], train loss: 0.003355, valid_loss: 0.500417, best_loss: 0.500417
+epoch [393/2000], train loss: 0.003484, valid_loss: 0.500417, best_loss: 0.500417
+epoch [394/2000], train loss: 0.003324, valid_loss: 0.500417, best_loss: 0.500417
+epoch [395/2000], train loss: 0.003310, valid_loss: 0.500417, best_loss: 0.500417
+epoch [396/2000], train loss: 0.003541, valid_loss: 0.500417, best_loss: 0.500417
+epoch [397/2000], train loss: 0.003507, valid_loss: 0.500417, best_loss: 0.500417
+epoch [398/2000], train loss: 0.003536, valid_loss: 0.500417, best_loss: 0.500417
+epoch [399/2000], train loss: 0.003466, valid_loss: 0.500417, best_loss: 0.500417
+epoch [400/2000], train loss: 0.003487, valid_loss: 0.500417, best_loss: 0.500417
+epoch [401/2000], train loss: 0.003350, valid_loss: 0.489067, best_loss: 0.489067
+epoch [402/2000], train loss: 0.003383, valid_loss: 0.489067, best_loss: 0.489067
+epoch [403/2000], train loss: 0.003290, valid_loss: 0.489067, best_loss: 0.489067
+epoch [404/2000], train loss: 0.003290, valid_loss: 0.489067, best_loss: 0.489067
+epoch [405/2000], train loss: 0.003399, valid_loss: 0.489067, best_loss: 0.489067
+epoch [406/2000], train loss: 0.003174, valid_loss: 0.489067, best_loss: 0.489067
+epoch [407/2000], train loss: 0.003402, valid_loss: 0.489067, best_loss: 0.489067
+epoch [408/2000], train loss: 0.003452, valid_loss: 0.489067, best_loss: 0.489067
+epoch [409/2000], train loss: 0.003474, valid_loss: 0.489067, best_loss: 0.489067
+epoch [410/2000], train loss: 0.003400, valid_loss: 0.489067, best_loss: 0.489067
+epoch [411/2000], train loss: 0.003307, valid_loss: 0.489067, best_loss: 0.489067
+epoch [412/2000], train loss: 0.003350, valid_loss: 0.489067, best_loss: 0.489067
+epoch [413/2000], train loss: 0.003334, valid_loss: 0.489067, best_loss: 0.489067
+epoch [414/2000], train loss: 0.003162, valid_loss: 0.489067, best_loss: 0.489067
+epoch [415/2000], train loss: 0.003435, valid_loss: 0.489067, best_loss: 0.489067
+epoch [416/2000], train loss: 0.003391, valid_loss: 0.489067, best_loss: 0.489067
+epoch [417/2000], train loss: 0.003232, valid_loss: 0.489067, best_loss: 0.489067
+epoch [418/2000], train loss: 0.003394, valid_loss: 0.489067, best_loss: 0.489067
+epoch [419/2000], train loss: 0.003350, valid_loss: 0.489067, best_loss: 0.489067
+epoch [420/2000], train loss: 0.003316, valid_loss: 0.489067, best_loss: 0.489067
+epoch [421/2000], train loss: 0.003199, valid_loss: 0.489067, best_loss: 0.489067
+epoch [422/2000], train loss: 0.003458, valid_loss: 0.489067, best_loss: 0.489067
+epoch [423/2000], train loss: 0.003419, valid_loss: 0.489067, best_loss: 0.489067
+epoch [424/2000], train loss: 0.003299, valid_loss: 0.489067, best_loss: 0.489067
+epoch [425/2000], train loss: 0.003346, valid_loss: 0.489067, best_loss: 0.489067
+epoch [426/2000], train loss: 0.003410, valid_loss: 0.489067, best_loss: 0.489067
+epoch [427/2000], train loss: 0.003202, valid_loss: 0.489067, best_loss: 0.489067
+epoch [428/2000], train loss: 0.003351, valid_loss: 0.489067, best_loss: 0.489067
+epoch [429/2000], train loss: 0.003471, valid_loss: 0.489067, best_loss: 0.489067
+epoch [430/2000], train loss: 0.003357, valid_loss: 0.489067, best_loss: 0.489067
+epoch [431/2000], train loss: 0.003437, valid_loss: 0.489067, best_loss: 0.489067
+epoch [432/2000], train loss: 0.003566, valid_loss: 0.489067, best_loss: 0.489067
+epoch [433/2000], train loss: 0.003158, valid_loss: 0.489067, best_loss: 0.489067
+epoch [434/2000], train loss: 0.003369, valid_loss: 0.489067, best_loss: 0.489067
+epoch [435/2000], train loss: 0.003617, valid_loss: 0.489067, best_loss: 0.489067
+epoch [436/2000], train loss: 0.003281, valid_loss: 0.489067, best_loss: 0.489067
+epoch [437/2000], train loss: 0.003053, valid_loss: 0.489067, best_loss: 0.489067
+epoch [438/2000], train loss: 0.003277, valid_loss: 0.489067, best_loss: 0.489067
+epoch [439/2000], train loss: 0.003335, valid_loss: 0.489067, best_loss: 0.489067
+epoch [440/2000], train loss: 0.003444, valid_loss: 0.489067, best_loss: 0.489067
+epoch [441/2000], train loss: 0.003325, valid_loss: 0.489067, best_loss: 0.489067
+epoch [442/2000], train loss: 0.003126, valid_loss: 0.489067, best_loss: 0.489067
+epoch [443/2000], train loss: 0.003410, valid_loss: 0.489067, best_loss: 0.489067
+epoch [444/2000], train loss: 0.003458, valid_loss: 0.489067, best_loss: 0.489067
+epoch [445/2000], train loss: 0.003308, valid_loss: 0.489067, best_loss: 0.489067
+epoch [446/2000], train loss: 0.003168, valid_loss: 0.489067, best_loss: 0.489067
+epoch [447/2000], train loss: 0.003326, valid_loss: 0.489067, best_loss: 0.489067
+epoch [448/2000], train loss: 0.003167, valid_loss: 0.489067, best_loss: 0.489067
+epoch [449/2000], train loss: 0.003285, valid_loss: 0.489067, best_loss: 0.489067
+epoch [450/2000], train loss: 0.003430, valid_loss: 0.489067, best_loss: 0.489067
+epoch [451/2000], train loss: 0.003443, valid_loss: 0.489067, best_loss: 0.489067
+epoch [452/2000], train loss: 0.003441, valid_loss: 0.489067, best_loss: 0.489067
+epoch [453/2000], train loss: 0.003558, valid_loss: 0.489067, best_loss: 0.489067
+epoch [454/2000], train loss: 0.003343, valid_loss: 0.489067, best_loss: 0.489067
+epoch [455/2000], train loss: 0.003518, valid_loss: 0.489067, best_loss: 0.489067
+epoch [456/2000], train loss: 0.003457, valid_loss: 0.489067, best_loss: 0.489067
+epoch [457/2000], train loss: 0.003317, valid_loss: 0.489067, best_loss: 0.489067
+epoch [458/2000], train loss: 0.003438, valid_loss: 0.489067, best_loss: 0.489067
+epoch [459/2000], train loss: 0.003374, valid_loss: 0.489067, best_loss: 0.489067
+epoch [460/2000], train loss: 0.003286, valid_loss: 0.489067, best_loss: 0.489067
+epoch [461/2000], train loss: 0.003349, valid_loss: 0.489067, best_loss: 0.489067
+epoch [462/2000], train loss: 0.003330, valid_loss: 0.489067, best_loss: 0.489067
+epoch [463/2000], train loss: 0.003343, valid_loss: 0.489067, best_loss: 0.489067
+epoch [464/2000], train loss: 0.003252, valid_loss: 0.489067, best_loss: 0.489067
+epoch [465/2000], train loss: 0.003323, valid_loss: 0.489067, best_loss: 0.489067
+epoch [466/2000], train loss: 0.003284, valid_loss: 0.489067, best_loss: 0.489067
+epoch [467/2000], train loss: 0.003156, valid_loss: 0.489067, best_loss: 0.489067
+epoch [468/2000], train loss: 0.003388, valid_loss: 0.489067, best_loss: 0.489067
+epoch [469/2000], train loss: 0.003334, valid_loss: 0.489067, best_loss: 0.489067
+epoch [470/2000], train loss: 0.003252, valid_loss: 0.489067, best_loss: 0.489067
+epoch [471/2000], train loss: 0.003239, valid_loss: 0.489067, best_loss: 0.489067
+epoch [472/2000], train loss: 0.003365, valid_loss: 0.489067, best_loss: 0.489067
+epoch [473/2000], train loss: 0.003356, valid_loss: 0.489067, best_loss: 0.489067
+epoch [474/2000], train loss: 0.003528, valid_loss: 0.489067, best_loss: 0.489067
+epoch [475/2000], train loss: 0.003403, valid_loss: 0.489067, best_loss: 0.489067
+epoch [476/2000], train loss: 0.003401, valid_loss: 0.489067, best_loss: 0.489067
+epoch [477/2000], train loss: 0.003330, valid_loss: 0.489067, best_loss: 0.489067
+epoch [478/2000], train loss: 0.003428, valid_loss: 0.489067, best_loss: 0.489067
+epoch [479/2000], train loss: 0.003254, valid_loss: 0.489067, best_loss: 0.489067
+epoch [480/2000], train loss: 0.003345, valid_loss: 0.489067, best_loss: 0.489067
+epoch [481/2000], train loss: 0.003355, valid_loss: 0.489067, best_loss: 0.489067
+epoch [482/2000], train loss: 0.003315, valid_loss: 0.489067, best_loss: 0.489067
+epoch [483/2000], train loss: 0.003280, valid_loss: 0.489067, best_loss: 0.489067
+epoch [484/2000], train loss: 0.003347, valid_loss: 0.489067, best_loss: 0.489067
+epoch [485/2000], train loss: 0.003320, valid_loss: 0.489067, best_loss: 0.489067
+epoch [486/2000], train loss: 0.003319, valid_loss: 0.489067, best_loss: 0.489067
+epoch [487/2000], train loss: 0.003348, valid_loss: 0.489067, best_loss: 0.489067
+epoch [488/2000], train loss: 0.003562, valid_loss: 0.489067, best_loss: 0.489067
+epoch [489/2000], train loss: 0.003225, valid_loss: 0.489067, best_loss: 0.489067
+epoch [490/2000], train loss: 0.003120, valid_loss: 0.489067, best_loss: 0.489067
+epoch [491/2000], train loss: 0.003408, valid_loss: 0.489067, best_loss: 0.489067
+epoch [492/2000], train loss: 0.003339, valid_loss: 0.489067, best_loss: 0.489067
+epoch [493/2000], train loss: 0.003256, valid_loss: 0.489067, best_loss: 0.489067
+epoch [494/2000], train loss: 0.003288, valid_loss: 0.489067, best_loss: 0.489067
+epoch [495/2000], train loss: 0.003389, valid_loss: 0.489067, best_loss: 0.489067
+epoch [496/2000], train loss: 0.003222, valid_loss: 0.489067, best_loss: 0.489067
+epoch [497/2000], train loss: 0.003453, valid_loss: 0.489067, best_loss: 0.489067
+epoch [498/2000], train loss: 0.003263, valid_loss: 0.489067, best_loss: 0.489067
+epoch [499/2000], train loss: 0.003455, valid_loss: 0.489067, best_loss: 0.489067
+epoch [500/2000], train loss: 0.003249, valid_loss: 0.489067, best_loss: 0.489067
+epoch [501/2000], train loss: 0.003414, valid_loss: 0.477484, best_loss: 0.477484
+epoch [502/2000], train loss: 0.003271, valid_loss: 0.477484, best_loss: 0.477484
+epoch [503/2000], train loss: 0.003444, valid_loss: 0.477484, best_loss: 0.477484
+epoch [504/2000], train loss: 0.003343, valid_loss: 0.477484, best_loss: 0.477484
+epoch [505/2000], train loss: 0.003332, valid_loss: 0.477484, best_loss: 0.477484
+epoch [506/2000], train loss: 0.003575, valid_loss: 0.477484, best_loss: 0.477484
+epoch [507/2000], train loss: 0.003397, valid_loss: 0.477484, best_loss: 0.477484
+epoch [508/2000], train loss: 0.003373, valid_loss: 0.477484, best_loss: 0.477484
+epoch [509/2000], train loss: 0.003347, valid_loss: 0.477484, best_loss: 0.477484
+epoch [510/2000], train loss: 0.003303, valid_loss: 0.477484, best_loss: 0.477484
+epoch [511/2000], train loss: 0.003361, valid_loss: 0.477484, best_loss: 0.477484
+epoch [512/2000], train loss: 0.003272, valid_loss: 0.477484, best_loss: 0.477484
+epoch [513/2000], train loss: 0.003421, valid_loss: 0.477484, best_loss: 0.477484
+epoch [514/2000], train loss: 0.003117, valid_loss: 0.477484, best_loss: 0.477484
+epoch [515/2000], train loss: 0.003282, valid_loss: 0.477484, best_loss: 0.477484
+epoch [516/2000], train loss: 0.003363, valid_loss: 0.477484, best_loss: 0.477484
+epoch [517/2000], train loss: 0.003485, valid_loss: 0.477484, best_loss: 0.477484
+epoch [518/2000], train loss: 0.003232, valid_loss: 0.477484, best_loss: 0.477484
+epoch [519/2000], train loss: 0.003348, valid_loss: 0.477484, best_loss: 0.477484
+epoch [520/2000], train loss: 0.003144, valid_loss: 0.477484, best_loss: 0.477484
+epoch [521/2000], train loss: 0.003499, valid_loss: 0.477484, best_loss: 0.477484
+epoch [522/2000], train loss: 0.003291, valid_loss: 0.477484, best_loss: 0.477484
+epoch [523/2000], train loss: 0.003138, valid_loss: 0.477484, best_loss: 0.477484
+epoch [524/2000], train loss: 0.003441, valid_loss: 0.477484, best_loss: 0.477484
+epoch [525/2000], train loss: 0.003228, valid_loss: 0.477484, best_loss: 0.477484
+epoch [526/2000], train loss: 0.003221, valid_loss: 0.477484, best_loss: 0.477484
+epoch [527/2000], train loss: 0.003235, valid_loss: 0.477484, best_loss: 0.477484
+epoch [528/2000], train loss: 0.003318, valid_loss: 0.477484, best_loss: 0.477484
+epoch [529/2000], train loss: 0.003444, valid_loss: 0.477484, best_loss: 0.477484
+epoch [530/2000], train loss: 0.003317, valid_loss: 0.477484, best_loss: 0.477484
+epoch [531/2000], train loss: 0.003197, valid_loss: 0.477484, best_loss: 0.477484
+epoch [532/2000], train loss: 0.003562, valid_loss: 0.477484, best_loss: 0.477484
+epoch [533/2000], train loss: 0.003395, valid_loss: 0.477484, best_loss: 0.477484
+epoch [534/2000], train loss: 0.003329, valid_loss: 0.477484, best_loss: 0.477484
+epoch [535/2000], train loss: 0.003404, valid_loss: 0.477484, best_loss: 0.477484
+epoch [536/2000], train loss: 0.003445, valid_loss: 0.477484, best_loss: 0.477484
+epoch [537/2000], train loss: 0.003272, valid_loss: 0.477484, best_loss: 0.477484
+epoch [538/2000], train loss: 0.003301, valid_loss: 0.477484, best_loss: 0.477484
+epoch [539/2000], train loss: 0.003270, valid_loss: 0.477484, best_loss: 0.477484
+epoch [540/2000], train loss: 0.003315, valid_loss: 0.477484, best_loss: 0.477484
+epoch [541/2000], train loss: 0.003434, valid_loss: 0.477484, best_loss: 0.477484
+epoch [542/2000], train loss: 0.003199, valid_loss: 0.477484, best_loss: 0.477484
+epoch [543/2000], train loss: 0.003384, valid_loss: 0.477484, best_loss: 0.477484
+epoch [544/2000], train loss: 0.003451, valid_loss: 0.477484, best_loss: 0.477484
+epoch [545/2000], train loss: 0.003371, valid_loss: 0.477484, best_loss: 0.477484
+epoch [546/2000], train loss: 0.003171, valid_loss: 0.477484, best_loss: 0.477484
+epoch [547/2000], train loss: 0.003148, valid_loss: 0.477484, best_loss: 0.477484
+epoch [548/2000], train loss: 0.003417, valid_loss: 0.477484, best_loss: 0.477484
+epoch [549/2000], train loss: 0.003306, valid_loss: 0.477484, best_loss: 0.477484
+epoch [550/2000], train loss: 0.003317, valid_loss: 0.477484, best_loss: 0.477484
+epoch [551/2000], train loss: 0.003214, valid_loss: 0.477484, best_loss: 0.477484
+epoch [552/2000], train loss: 0.003244, valid_loss: 0.477484, best_loss: 0.477484
+epoch [553/2000], train loss: 0.003227, valid_loss: 0.477484, best_loss: 0.477484
+epoch [554/2000], train loss: 0.003350, valid_loss: 0.477484, best_loss: 0.477484
+epoch [555/2000], train loss: 0.003322, valid_loss: 0.477484, best_loss: 0.477484
+epoch [556/2000], train loss: 0.003320, valid_loss: 0.477484, best_loss: 0.477484
+epoch [557/2000], train loss: 0.003286, valid_loss: 0.477484, best_loss: 0.477484
+epoch [558/2000], train loss: 0.003208, valid_loss: 0.477484, best_loss: 0.477484
+epoch [559/2000], train loss: 0.003256, valid_loss: 0.477484, best_loss: 0.477484
+epoch [560/2000], train loss: 0.003195, valid_loss: 0.477484, best_loss: 0.477484
+epoch [561/2000], train loss: 0.003158, valid_loss: 0.477484, best_loss: 0.477484
+epoch [562/2000], train loss: 0.003380, valid_loss: 0.477484, best_loss: 0.477484
+epoch [563/2000], train loss: 0.003265, valid_loss: 0.477484, best_loss: 0.477484
+epoch [564/2000], train loss: 0.003263, valid_loss: 0.477484, best_loss: 0.477484
+epoch [565/2000], train loss: 0.003381, valid_loss: 0.477484, best_loss: 0.477484
+epoch [566/2000], train loss: 0.003295, valid_loss: 0.477484, best_loss: 0.477484
+epoch [567/2000], train loss: 0.003325, valid_loss: 0.477484, best_loss: 0.477484
+epoch [568/2000], train loss: 0.003358, valid_loss: 0.477484, best_loss: 0.477484
+epoch [569/2000], train loss: 0.003350, valid_loss: 0.477484, best_loss: 0.477484
+epoch [570/2000], train loss: 0.003201, valid_loss: 0.477484, best_loss: 0.477484
+epoch [571/2000], train loss: 0.003321, valid_loss: 0.477484, best_loss: 0.477484
+epoch [572/2000], train loss: 0.003240, valid_loss: 0.477484, best_loss: 0.477484
+epoch [573/2000], train loss: 0.003346, valid_loss: 0.477484, best_loss: 0.477484
+epoch [574/2000], train loss: 0.003260, valid_loss: 0.477484, best_loss: 0.477484
+epoch [575/2000], train loss: 0.003325, valid_loss: 0.477484, best_loss: 0.477484
+epoch [576/2000], train loss: 0.003074, valid_loss: 0.477484, best_loss: 0.477484
+epoch [577/2000], train loss: 0.003138, valid_loss: 0.477484, best_loss: 0.477484
+epoch [578/2000], train loss: 0.003386, valid_loss: 0.477484, best_loss: 0.477484
+epoch [579/2000], train loss: 0.003331, valid_loss: 0.477484, best_loss: 0.477484
+epoch [580/2000], train loss: 0.003364, valid_loss: 0.477484, best_loss: 0.477484
+epoch [581/2000], train loss: 0.003299, valid_loss: 0.477484, best_loss: 0.477484
+epoch [582/2000], train loss: 0.003303, valid_loss: 0.477484, best_loss: 0.477484
+epoch [583/2000], train loss: 0.003292, valid_loss: 0.477484, best_loss: 0.477484
+epoch [584/2000], train loss: 0.003503, valid_loss: 0.477484, best_loss: 0.477484
+epoch [585/2000], train loss: 0.003235, valid_loss: 0.477484, best_loss: 0.477484
+epoch [586/2000], train loss: 0.003128, valid_loss: 0.477484, best_loss: 0.477484
+epoch [587/2000], train loss: 0.003369, valid_loss: 0.477484, best_loss: 0.477484
+epoch [588/2000], train loss: 0.002949, valid_loss: 0.477484, best_loss: 0.477484
+epoch [589/2000], train loss: 0.003300, valid_loss: 0.477484, best_loss: 0.477484
+epoch [590/2000], train loss: 0.003285, valid_loss: 0.477484, best_loss: 0.477484
+epoch [591/2000], train loss: 0.003274, valid_loss: 0.477484, best_loss: 0.477484
+epoch [592/2000], train loss: 0.003383, valid_loss: 0.477484, best_loss: 0.477484
+epoch [593/2000], train loss: 0.003253, valid_loss: 0.477484, best_loss: 0.477484
+epoch [594/2000], train loss: 0.003241, valid_loss: 0.477484, best_loss: 0.477484
+epoch [595/2000], train loss: 0.003360, valid_loss: 0.477484, best_loss: 0.477484
+epoch [596/2000], train loss: 0.003203, valid_loss: 0.477484, best_loss: 0.477484
+epoch [597/2000], train loss: 0.003321, valid_loss: 0.477484, best_loss: 0.477484
+epoch [598/2000], train loss: 0.003233, valid_loss: 0.477484, best_loss: 0.477484
+epoch [599/2000], train loss: 0.003461, valid_loss: 0.477484, best_loss: 0.477484
+epoch [600/2000], train loss: 0.003188, valid_loss: 0.477484, best_loss: 0.477484
+epoch [601/2000], train loss: 0.003435, valid_loss: 0.472370, best_loss: 0.472370
+epoch [602/2000], train loss: 0.003130, valid_loss: 0.472370, best_loss: 0.472370
+epoch [603/2000], train loss: 0.003372, valid_loss: 0.472370, best_loss: 0.472370
+epoch [604/2000], train loss: 0.003305, valid_loss: 0.472370, best_loss: 0.472370
+epoch [605/2000], train loss: 0.003165, valid_loss: 0.472370, best_loss: 0.472370
+epoch [606/2000], train loss: 0.003364, valid_loss: 0.472370, best_loss: 0.472370
+epoch [607/2000], train loss: 0.003339, valid_loss: 0.472370, best_loss: 0.472370
+epoch [608/2000], train loss: 0.003281, valid_loss: 0.472370, best_loss: 0.472370
+epoch [609/2000], train loss: 0.003446, valid_loss: 0.472370, best_loss: 0.472370
+epoch [610/2000], train loss: 0.003227, valid_loss: 0.472370, best_loss: 0.472370
+epoch [611/2000], train loss: 0.003201, valid_loss: 0.472370, best_loss: 0.472370
+epoch [612/2000], train loss: 0.003261, valid_loss: 0.472370, best_loss: 0.472370
+epoch [613/2000], train loss: 0.003429, valid_loss: 0.472370, best_loss: 0.472370
+epoch [614/2000], train loss: 0.003244, valid_loss: 0.472370, best_loss: 0.472370
+epoch [615/2000], train loss: 0.003270, valid_loss: 0.472370, best_loss: 0.472370
+epoch [616/2000], train loss: 0.003453, valid_loss: 0.472370, best_loss: 0.472370
+epoch [617/2000], train loss: 0.003323, valid_loss: 0.472370, best_loss: 0.472370
+epoch [618/2000], train loss: 0.003364, valid_loss: 0.472370, best_loss: 0.472370
+epoch [619/2000], train loss: 0.003231, valid_loss: 0.472370, best_loss: 0.472370
+epoch [620/2000], train loss: 0.003350, valid_loss: 0.472370, best_loss: 0.472370
+epoch [621/2000], train loss: 0.003132, valid_loss: 0.472370, best_loss: 0.472370
+epoch [622/2000], train loss: 0.003250, valid_loss: 0.472370, best_loss: 0.472370
+epoch [623/2000], train loss: 0.003134, valid_loss: 0.472370, best_loss: 0.472370
+epoch [624/2000], train loss: 0.003357, valid_loss: 0.472370, best_loss: 0.472370
+epoch [625/2000], train loss: 0.003275, valid_loss: 0.472370, best_loss: 0.472370
+epoch [626/2000], train loss: 0.003403, valid_loss: 0.472370, best_loss: 0.472370
+epoch [627/2000], train loss: 0.003430, valid_loss: 0.472370, best_loss: 0.472370
+epoch [628/2000], train loss: 0.003289, valid_loss: 0.472370, best_loss: 0.472370
+epoch [629/2000], train loss: 0.003300, valid_loss: 0.472370, best_loss: 0.472370
+epoch [630/2000], train loss: 0.003201, valid_loss: 0.472370, best_loss: 0.472370
+epoch [631/2000], train loss: 0.003217, valid_loss: 0.472370, best_loss: 0.472370
+epoch [632/2000], train loss: 0.003214, valid_loss: 0.472370, best_loss: 0.472370
+epoch [633/2000], train loss: 0.003251, valid_loss: 0.472370, best_loss: 0.472370
+epoch [634/2000], train loss: 0.003503, valid_loss: 0.472370, best_loss: 0.472370
+epoch [635/2000], train loss: 0.003331, valid_loss: 0.472370, best_loss: 0.472370
+epoch [636/2000], train loss: 0.003208, valid_loss: 0.472370, best_loss: 0.472370
+epoch [637/2000], train loss: 0.003386, valid_loss: 0.472370, best_loss: 0.472370
+epoch [638/2000], train loss: 0.003139, valid_loss: 0.472370, best_loss: 0.472370
+epoch [639/2000], train loss: 0.003220, valid_loss: 0.472370, best_loss: 0.472370
+epoch [640/2000], train loss: 0.003153, valid_loss: 0.472370, best_loss: 0.472370
+epoch [641/2000], train loss: 0.003215, valid_loss: 0.472370, best_loss: 0.472370
+epoch [642/2000], train loss: 0.003305, valid_loss: 0.472370, best_loss: 0.472370
+epoch [643/2000], train loss: 0.003224, valid_loss: 0.472370, best_loss: 0.472370
+epoch [644/2000], train loss: 0.003524, valid_loss: 0.472370, best_loss: 0.472370
+epoch [645/2000], train loss: 0.003208, valid_loss: 0.472370, best_loss: 0.472370
+epoch [646/2000], train loss: 0.003385, valid_loss: 0.472370, best_loss: 0.472370
+epoch [647/2000], train loss: 0.003201, valid_loss: 0.472370, best_loss: 0.472370
+epoch [648/2000], train loss: 0.003379, valid_loss: 0.472370, best_loss: 0.472370
+epoch [649/2000], train loss: 0.003178, valid_loss: 0.472370, best_loss: 0.472370
+epoch [650/2000], train loss: 0.003198, valid_loss: 0.472370, best_loss: 0.472370
+epoch [651/2000], train loss: 0.003324, valid_loss: 0.472370, best_loss: 0.472370
+epoch [652/2000], train loss: 0.003432, valid_loss: 0.472370, best_loss: 0.472370
+epoch [653/2000], train loss: 0.003351, valid_loss: 0.472370, best_loss: 0.472370
+epoch [654/2000], train loss: 0.003352, valid_loss: 0.472370, best_loss: 0.472370
+epoch [655/2000], train loss: 0.003254, valid_loss: 0.472370, best_loss: 0.472370
+epoch [656/2000], train loss: 0.003301, valid_loss: 0.472370, best_loss: 0.472370
+epoch [657/2000], train loss: 0.003212, valid_loss: 0.472370, best_loss: 0.472370
+epoch [658/2000], train loss: 0.003203, valid_loss: 0.472370, best_loss: 0.472370
+epoch [659/2000], train loss: 0.003239, valid_loss: 0.472370, best_loss: 0.472370
+epoch [660/2000], train loss: 0.003195, valid_loss: 0.472370, best_loss: 0.472370
+epoch [661/2000], train loss: 0.003296, valid_loss: 0.472370, best_loss: 0.472370
+epoch [662/2000], train loss: 0.003172, valid_loss: 0.472370, best_loss: 0.472370
+epoch [663/2000], train loss: 0.003285, valid_loss: 0.472370, best_loss: 0.472370
+epoch [664/2000], train loss: 0.003296, valid_loss: 0.472370, best_loss: 0.472370
+epoch [665/2000], train loss: 0.003157, valid_loss: 0.472370, best_loss: 0.472370
+epoch [666/2000], train loss: 0.003310, valid_loss: 0.472370, best_loss: 0.472370
+epoch [667/2000], train loss: 0.003134, valid_loss: 0.472370, best_loss: 0.472370
+epoch [668/2000], train loss: 0.003222, valid_loss: 0.472370, best_loss: 0.472370
+epoch [669/2000], train loss: 0.003229, valid_loss: 0.472370, best_loss: 0.472370
+epoch [670/2000], train loss: 0.003308, valid_loss: 0.472370, best_loss: 0.472370
+epoch [671/2000], train loss: 0.003339, valid_loss: 0.472370, best_loss: 0.472370
+epoch [672/2000], train loss: 0.003165, valid_loss: 0.472370, best_loss: 0.472370
+epoch [673/2000], train loss: 0.003204, valid_loss: 0.472370, best_loss: 0.472370
+epoch [674/2000], train loss: 0.003162, valid_loss: 0.472370, best_loss: 0.472370
+epoch [675/2000], train loss: 0.003399, valid_loss: 0.472370, best_loss: 0.472370
+epoch [676/2000], train loss: 0.003097, valid_loss: 0.472370, best_loss: 0.472370
+epoch [677/2000], train loss: 0.003148, valid_loss: 0.472370, best_loss: 0.472370
+epoch [678/2000], train loss: 0.003475, valid_loss: 0.472370, best_loss: 0.472370
+epoch [679/2000], train loss: 0.003247, valid_loss: 0.472370, best_loss: 0.472370
+epoch [680/2000], train loss: 0.003230, valid_loss: 0.472370, best_loss: 0.472370
+epoch [681/2000], train loss: 0.003391, valid_loss: 0.472370, best_loss: 0.472370
+epoch [682/2000], train loss: 0.003366, valid_loss: 0.472370, best_loss: 0.472370
+epoch [683/2000], train loss: 0.003283, valid_loss: 0.472370, best_loss: 0.472370
+epoch [684/2000], train loss: 0.003325, valid_loss: 0.472370, best_loss: 0.472370
+epoch [685/2000], train loss: 0.003293, valid_loss: 0.472370, best_loss: 0.472370
+epoch [686/2000], train loss: 0.003290, valid_loss: 0.472370, best_loss: 0.472370
+epoch [687/2000], train loss: 0.003250, valid_loss: 0.472370, best_loss: 0.472370
+epoch [688/2000], train loss: 0.003205, valid_loss: 0.472370, best_loss: 0.472370
+epoch [689/2000], train loss: 0.003338, valid_loss: 0.472370, best_loss: 0.472370
+epoch [690/2000], train loss: 0.003223, valid_loss: 0.472370, best_loss: 0.472370
+epoch [691/2000], train loss: 0.003332, valid_loss: 0.472370, best_loss: 0.472370
+epoch [692/2000], train loss: 0.003240, valid_loss: 0.472370, best_loss: 0.472370
+epoch [693/2000], train loss: 0.003136, valid_loss: 0.472370, best_loss: 0.472370
+epoch [694/2000], train loss: 0.003359, valid_loss: 0.472370, best_loss: 0.472370
+epoch [695/2000], train loss: 0.003308, valid_loss: 0.472370, best_loss: 0.472370
+epoch [696/2000], train loss: 0.003184, valid_loss: 0.472370, best_loss: 0.472370
+epoch [697/2000], train loss: 0.003173, valid_loss: 0.472370, best_loss: 0.472370
+epoch [698/2000], train loss: 0.003107, valid_loss: 0.472370, best_loss: 0.472370
+epoch [699/2000], train loss: 0.003207, valid_loss: 0.472370, best_loss: 0.472370
+epoch [700/2000], train loss: 0.003186, valid_loss: 0.472370, best_loss: 0.472370
+epoch [701/2000], train loss: 0.003266, valid_loss: 0.447399, best_loss: 0.447399
+epoch [702/2000], train loss: 0.003154, valid_loss: 0.447399, best_loss: 0.447399
+epoch [703/2000], train loss: 0.003323, valid_loss: 0.447399, best_loss: 0.447399
+epoch [704/2000], train loss: 0.003273, valid_loss: 0.447399, best_loss: 0.447399
+epoch [705/2000], train loss: 0.003271, valid_loss: 0.447399, best_loss: 0.447399
+epoch [706/2000], train loss: 0.003047, valid_loss: 0.447399, best_loss: 0.447399
+epoch [707/2000], train loss: 0.003327, valid_loss: 0.447399, best_loss: 0.447399
+epoch [708/2000], train loss: 0.003278, valid_loss: 0.447399, best_loss: 0.447399
+epoch [709/2000], train loss: 0.003208, valid_loss: 0.447399, best_loss: 0.447399
+epoch [710/2000], train loss: 0.003373, valid_loss: 0.447399, best_loss: 0.447399
+epoch [711/2000], train loss: 0.003356, valid_loss: 0.447399, best_loss: 0.447399
+epoch [712/2000], train loss: 0.003229, valid_loss: 0.447399, best_loss: 0.447399
+epoch [713/2000], train loss: 0.003360, valid_loss: 0.447399, best_loss: 0.447399
+epoch [714/2000], train loss: 0.003188, valid_loss: 0.447399, best_loss: 0.447399
+epoch [715/2000], train loss: 0.003191, valid_loss: 0.447399, best_loss: 0.447399
+epoch [716/2000], train loss: 0.003387, valid_loss: 0.447399, best_loss: 0.447399
+epoch [717/2000], train loss: 0.003387, valid_loss: 0.447399, best_loss: 0.447399
+epoch [718/2000], train loss: 0.003154, valid_loss: 0.447399, best_loss: 0.447399
+epoch [719/2000], train loss: 0.003253, valid_loss: 0.447399, best_loss: 0.447399
+epoch [720/2000], train loss: 0.003289, valid_loss: 0.447399, best_loss: 0.447399
+epoch [721/2000], train loss: 0.003305, valid_loss: 0.447399, best_loss: 0.447399
+epoch [722/2000], train loss: 0.003192, valid_loss: 0.447399, best_loss: 0.447399
+epoch [723/2000], train loss: 0.003084, valid_loss: 0.447399, best_loss: 0.447399
+epoch [724/2000], train loss: 0.003424, valid_loss: 0.447399, best_loss: 0.447399
+epoch [725/2000], train loss: 0.003225, valid_loss: 0.447399, best_loss: 0.447399
+epoch [726/2000], train loss: 0.003387, valid_loss: 0.447399, best_loss: 0.447399
+epoch [727/2000], train loss: 0.003302, valid_loss: 0.447399, best_loss: 0.447399
+epoch [728/2000], train loss: 0.003277, valid_loss: 0.447399, best_loss: 0.447399
+epoch [729/2000], train loss: 0.003342, valid_loss: 0.447399, best_loss: 0.447399
+epoch [730/2000], train loss: 0.003386, valid_loss: 0.447399, best_loss: 0.447399
+epoch [731/2000], train loss: 0.003172, valid_loss: 0.447399, best_loss: 0.447399
+epoch [732/2000], train loss: 0.003502, valid_loss: 0.447399, best_loss: 0.447399
+epoch [733/2000], train loss: 0.003242, valid_loss: 0.447399, best_loss: 0.447399
+epoch [734/2000], train loss: 0.003112, valid_loss: 0.447399, best_loss: 0.447399
+epoch [735/2000], train loss: 0.003262, valid_loss: 0.447399, best_loss: 0.447399
+epoch [736/2000], train loss: 0.003205, valid_loss: 0.447399, best_loss: 0.447399
+epoch [737/2000], train loss: 0.002964, valid_loss: 0.447399, best_loss: 0.447399
+epoch [738/2000], train loss: 0.003511, valid_loss: 0.447399, best_loss: 0.447399
+epoch [739/2000], train loss: 0.003308, valid_loss: 0.447399, best_loss: 0.447399
+epoch [740/2000], train loss: 0.003160, valid_loss: 0.447399, best_loss: 0.447399
+epoch [741/2000], train loss: 0.003225, valid_loss: 0.447399, best_loss: 0.447399
+epoch [742/2000], train loss: 0.003262, valid_loss: 0.447399, best_loss: 0.447399
+epoch [743/2000], train loss: 0.003326, valid_loss: 0.447399, best_loss: 0.447399
+epoch [744/2000], train loss: 0.003225, valid_loss: 0.447399, best_loss: 0.447399
+epoch [745/2000], train loss: 0.003309, valid_loss: 0.447399, best_loss: 0.447399
+epoch [746/2000], train loss: 0.003037, valid_loss: 0.447399, best_loss: 0.447399
+epoch [747/2000], train loss: 0.003183, valid_loss: 0.447399, best_loss: 0.447399
+epoch [748/2000], train loss: 0.003141, valid_loss: 0.447399, best_loss: 0.447399
+epoch [749/2000], train loss: 0.003290, valid_loss: 0.447399, best_loss: 0.447399
+epoch [750/2000], train loss: 0.003180, valid_loss: 0.447399, best_loss: 0.447399
+epoch [751/2000], train loss: 0.003428, valid_loss: 0.447399, best_loss: 0.447399
+epoch [752/2000], train loss: 0.003149, valid_loss: 0.447399, best_loss: 0.447399
+epoch [753/2000], train loss: 0.003242, valid_loss: 0.447399, best_loss: 0.447399
+epoch [754/2000], train loss: 0.003289, valid_loss: 0.447399, best_loss: 0.447399
+epoch [755/2000], train loss: 0.003331, valid_loss: 0.447399, best_loss: 0.447399
+epoch [756/2000], train loss: 0.003215, valid_loss: 0.447399, best_loss: 0.447399
+epoch [757/2000], train loss: 0.003261, valid_loss: 0.447399, best_loss: 0.447399
+epoch [758/2000], train loss: 0.003266, valid_loss: 0.447399, best_loss: 0.447399
+epoch [759/2000], train loss: 0.003091, valid_loss: 0.447399, best_loss: 0.447399
+epoch [760/2000], train loss: 0.003359, valid_loss: 0.447399, best_loss: 0.447399
+epoch [761/2000], train loss: 0.003203, valid_loss: 0.447399, best_loss: 0.447399
+epoch [762/2000], train loss: 0.003280, valid_loss: 0.447399, best_loss: 0.447399
+epoch [763/2000], train loss: 0.003133, valid_loss: 0.447399, best_loss: 0.447399
+epoch [764/2000], train loss: 0.003226, valid_loss: 0.447399, best_loss: 0.447399
+epoch [765/2000], train loss: 0.003417, valid_loss: 0.447399, best_loss: 0.447399
+epoch [766/2000], train loss: 0.003053, valid_loss: 0.447399, best_loss: 0.447399
+epoch [767/2000], train loss: 0.003205, valid_loss: 0.447399, best_loss: 0.447399
+epoch [768/2000], train loss: 0.003438, valid_loss: 0.447399, best_loss: 0.447399
+epoch [769/2000], train loss: 0.003339, valid_loss: 0.447399, best_loss: 0.447399
+epoch [770/2000], train loss: 0.003280, valid_loss: 0.447399, best_loss: 0.447399
+epoch [771/2000], train loss: 0.003319, valid_loss: 0.447399, best_loss: 0.447399
+epoch [772/2000], train loss: 0.003236, valid_loss: 0.447399, best_loss: 0.447399
+epoch [773/2000], train loss: 0.003468, valid_loss: 0.447399, best_loss: 0.447399
+epoch [774/2000], train loss: 0.003211, valid_loss: 0.447399, best_loss: 0.447399
+epoch [775/2000], train loss: 0.003393, valid_loss: 0.447399, best_loss: 0.447399
+epoch [776/2000], train loss: 0.003273, valid_loss: 0.447399, best_loss: 0.447399
+epoch [777/2000], train loss: 0.003131, valid_loss: 0.447399, best_loss: 0.447399
+epoch [778/2000], train loss: 0.003123, valid_loss: 0.447399, best_loss: 0.447399
+epoch [779/2000], train loss: 0.003261, valid_loss: 0.447399, best_loss: 0.447399
+epoch [780/2000], train loss: 0.003092, valid_loss: 0.447399, best_loss: 0.447399
+epoch [781/2000], train loss: 0.003347, valid_loss: 0.447399, best_loss: 0.447399
+epoch [782/2000], train loss: 0.003263, valid_loss: 0.447399, best_loss: 0.447399
+epoch [783/2000], train loss: 0.003068, valid_loss: 0.447399, best_loss: 0.447399
+epoch [784/2000], train loss: 0.003241, valid_loss: 0.447399, best_loss: 0.447399
+epoch [785/2000], train loss: 0.003305, valid_loss: 0.447399, best_loss: 0.447399
+epoch [786/2000], train loss: 0.003467, valid_loss: 0.447399, best_loss: 0.447399
+epoch [787/2000], train loss: 0.003398, valid_loss: 0.447399, best_loss: 0.447399
+epoch [788/2000], train loss: 0.003287, valid_loss: 0.447399, best_loss: 0.447399
+epoch [789/2000], train loss: 0.003275, valid_loss: 0.447399, best_loss: 0.447399
+epoch [790/2000], train loss: 0.003286, valid_loss: 0.447399, best_loss: 0.447399
+epoch [791/2000], train loss: 0.003232, valid_loss: 0.447399, best_loss: 0.447399
+epoch [792/2000], train loss: 0.003306, valid_loss: 0.447399, best_loss: 0.447399
+epoch [793/2000], train loss: 0.002999, valid_loss: 0.447399, best_loss: 0.447399
+epoch [794/2000], train loss: 0.003157, valid_loss: 0.447399, best_loss: 0.447399
+epoch [795/2000], train loss: 0.003329, valid_loss: 0.447399, best_loss: 0.447399
+epoch [796/2000], train loss: 0.003405, valid_loss: 0.447399, best_loss: 0.447399
+epoch [797/2000], train loss: 0.003137, valid_loss: 0.447399, best_loss: 0.447399
+epoch [798/2000], train loss: 0.003383, valid_loss: 0.447399, best_loss: 0.447399
+epoch [799/2000], train loss: 0.003108, valid_loss: 0.447399, best_loss: 0.447399
+epoch [800/2000], train loss: 0.003339, valid_loss: 0.447399, best_loss: 0.447399
+epoch [801/2000], train loss: 0.003327, valid_loss: 0.441306, best_loss: 0.441306
+epoch [802/2000], train loss: 0.003214, valid_loss: 0.441306, best_loss: 0.441306
+epoch [803/2000], train loss: 0.003179, valid_loss: 0.441306, best_loss: 0.441306
+epoch [804/2000], train loss: 0.003158, valid_loss: 0.441306, best_loss: 0.441306
+epoch [805/2000], train loss: 0.003131, valid_loss: 0.441306, best_loss: 0.441306
+epoch [806/2000], train loss: 0.002915, valid_loss: 0.441306, best_loss: 0.441306
+epoch [807/2000], train loss: 0.002995, valid_loss: 0.441306, best_loss: 0.441306
+epoch [808/2000], train loss: 0.003240, valid_loss: 0.441306, best_loss: 0.441306
+epoch [809/2000], train loss: 0.003126, valid_loss: 0.441306, best_loss: 0.441306
+epoch [810/2000], train loss: 0.003259, valid_loss: 0.441306, best_loss: 0.441306
+epoch [811/2000], train loss: 0.003134, valid_loss: 0.441306, best_loss: 0.441306
+epoch [812/2000], train loss: 0.003085, valid_loss: 0.441306, best_loss: 0.441306
+epoch [813/2000], train loss: 0.003081, valid_loss: 0.441306, best_loss: 0.441306
+epoch [814/2000], train loss: 0.003281, valid_loss: 0.441306, best_loss: 0.441306
+epoch [815/2000], train loss: 0.003291, valid_loss: 0.441306, best_loss: 0.441306
+epoch [816/2000], train loss: 0.003216, valid_loss: 0.441306, best_loss: 0.441306
+epoch [817/2000], train loss: 0.003257, valid_loss: 0.441306, best_loss: 0.441306
+epoch [818/2000], train loss: 0.003214, valid_loss: 0.441306, best_loss: 0.441306
+epoch [819/2000], train loss: 0.003090, valid_loss: 0.441306, best_loss: 0.441306
+epoch [820/2000], train loss: 0.003008, valid_loss: 0.441306, best_loss: 0.441306
+epoch [821/2000], train loss: 0.003253, valid_loss: 0.441306, best_loss: 0.441306
+epoch [822/2000], train loss: 0.003229, valid_loss: 0.441306, best_loss: 0.441306
+epoch [823/2000], train loss: 0.003153, valid_loss: 0.441306, best_loss: 0.441306
+epoch [824/2000], train loss: 0.003371, valid_loss: 0.441306, best_loss: 0.441306
+epoch [825/2000], train loss: 0.003284, valid_loss: 0.441306, best_loss: 0.441306
+epoch [826/2000], train loss: 0.003283, valid_loss: 0.441306, best_loss: 0.441306
+epoch [827/2000], train loss: 0.003181, valid_loss: 0.441306, best_loss: 0.441306
+epoch [828/2000], train loss: 0.003085, valid_loss: 0.441306, best_loss: 0.441306
+epoch [829/2000], train loss: 0.003072, valid_loss: 0.441306, best_loss: 0.441306
+epoch [830/2000], train loss: 0.003243, valid_loss: 0.441306, best_loss: 0.441306
+epoch [831/2000], train loss: 0.003199, valid_loss: 0.441306, best_loss: 0.441306
+epoch [832/2000], train loss: 0.003290, valid_loss: 0.441306, best_loss: 0.441306
+epoch [833/2000], train loss: 0.003184, valid_loss: 0.441306, best_loss: 0.441306
+epoch [834/2000], train loss: 0.003255, valid_loss: 0.441306, best_loss: 0.441306
+epoch [835/2000], train loss: 0.003347, valid_loss: 0.441306, best_loss: 0.441306
+epoch [836/2000], train loss: 0.003387, valid_loss: 0.441306, best_loss: 0.441306
+epoch [837/2000], train loss: 0.003205, valid_loss: 0.441306, best_loss: 0.441306
+epoch [838/2000], train loss: 0.003396, valid_loss: 0.441306, best_loss: 0.441306
+epoch [839/2000], train loss: 0.003259, valid_loss: 0.441306, best_loss: 0.441306
+epoch [840/2000], train loss: 0.003279, valid_loss: 0.441306, best_loss: 0.441306
+epoch [841/2000], train loss: 0.003119, valid_loss: 0.441306, best_loss: 0.441306
+epoch [842/2000], train loss: 0.003100, valid_loss: 0.441306, best_loss: 0.441306
+epoch [843/2000], train loss: 0.003258, valid_loss: 0.441306, best_loss: 0.441306
+epoch [844/2000], train loss: 0.003188, valid_loss: 0.441306, best_loss: 0.441306
+epoch [845/2000], train loss: 0.003132, valid_loss: 0.441306, best_loss: 0.441306
+epoch [846/2000], train loss: 0.003274, valid_loss: 0.441306, best_loss: 0.441306
+epoch [847/2000], train loss: 0.003273, valid_loss: 0.441306, best_loss: 0.441306
+epoch [848/2000], train loss: 0.003031, valid_loss: 0.441306, best_loss: 0.441306
+epoch [849/2000], train loss: 0.003065, valid_loss: 0.441306, best_loss: 0.441306
+epoch [850/2000], train loss: 0.003394, valid_loss: 0.441306, best_loss: 0.441306
+epoch [851/2000], train loss: 0.003108, valid_loss: 0.441306, best_loss: 0.441306
+epoch [852/2000], train loss: 0.003330, valid_loss: 0.441306, best_loss: 0.441306
+epoch [853/2000], train loss: 0.003206, valid_loss: 0.441306, best_loss: 0.441306
+epoch [854/2000], train loss: 0.003160, valid_loss: 0.441306, best_loss: 0.441306
+epoch [855/2000], train loss: 0.003289, valid_loss: 0.441306, best_loss: 0.441306
+epoch [856/2000], train loss: 0.003229, valid_loss: 0.441306, best_loss: 0.441306
+epoch [857/2000], train loss: 0.003184, valid_loss: 0.441306, best_loss: 0.441306
+epoch [858/2000], train loss: 0.003072, valid_loss: 0.441306, best_loss: 0.441306
+epoch [859/2000], train loss: 0.003292, valid_loss: 0.441306, best_loss: 0.441306
+epoch [860/2000], train loss: 0.003096, valid_loss: 0.441306, best_loss: 0.441306
+epoch [861/2000], train loss: 0.003083, valid_loss: 0.441306, best_loss: 0.441306
+epoch [862/2000], train loss: 0.003345, valid_loss: 0.441306, best_loss: 0.441306
+epoch [863/2000], train loss: 0.003251, valid_loss: 0.441306, best_loss: 0.441306
+epoch [864/2000], train loss: 0.003072, valid_loss: 0.441306, best_loss: 0.441306
+epoch [865/2000], train loss: 0.003231, valid_loss: 0.441306, best_loss: 0.441306
+epoch [866/2000], train loss: 0.003288, valid_loss: 0.441306, best_loss: 0.441306
+epoch [867/2000], train loss: 0.003146, valid_loss: 0.441306, best_loss: 0.441306
+epoch [868/2000], train loss: 0.003134, valid_loss: 0.441306, best_loss: 0.441306
+epoch [869/2000], train loss: 0.003114, valid_loss: 0.441306, best_loss: 0.441306
+epoch [870/2000], train loss: 0.003191, valid_loss: 0.441306, best_loss: 0.441306
+epoch [871/2000], train loss: 0.003250, valid_loss: 0.441306, best_loss: 0.441306
+epoch [872/2000], train loss: 0.003315, valid_loss: 0.441306, best_loss: 0.441306
+epoch [873/2000], train loss: 0.003257, valid_loss: 0.441306, best_loss: 0.441306
+epoch [874/2000], train loss: 0.003210, valid_loss: 0.441306, best_loss: 0.441306
+epoch [875/2000], train loss: 0.003212, valid_loss: 0.441306, best_loss: 0.441306
+epoch [876/2000], train loss: 0.003161, valid_loss: 0.441306, best_loss: 0.441306
+epoch [877/2000], train loss: 0.003269, valid_loss: 0.441306, best_loss: 0.441306
+epoch [878/2000], train loss: 0.003137, valid_loss: 0.441306, best_loss: 0.441306
+epoch [879/2000], train loss: 0.003234, valid_loss: 0.441306, best_loss: 0.441306
+epoch [880/2000], train loss: 0.003029, valid_loss: 0.441306, best_loss: 0.441306
+epoch [881/2000], train loss: 0.003192, valid_loss: 0.441306, best_loss: 0.441306
+epoch [882/2000], train loss: 0.003083, valid_loss: 0.441306, best_loss: 0.441306
+epoch [883/2000], train loss: 0.003159, valid_loss: 0.441306, best_loss: 0.441306
+epoch [884/2000], train loss: 0.002874, valid_loss: 0.441306, best_loss: 0.441306
+epoch [885/2000], train loss: 0.003146, valid_loss: 0.441306, best_loss: 0.441306
+epoch [886/2000], train loss: 0.003095, valid_loss: 0.441306, best_loss: 0.441306
+epoch [887/2000], train loss: 0.003287, valid_loss: 0.441306, best_loss: 0.441306
+epoch [888/2000], train loss: 0.003114, valid_loss: 0.441306, best_loss: 0.441306
+epoch [889/2000], train loss: 0.003041, valid_loss: 0.441306, best_loss: 0.441306
+epoch [890/2000], train loss: 0.003296, valid_loss: 0.441306, best_loss: 0.441306
+epoch [891/2000], train loss: 0.003146, valid_loss: 0.441306, best_loss: 0.441306
+epoch [892/2000], train loss: 0.003163, valid_loss: 0.441306, best_loss: 0.441306
+epoch [893/2000], train loss: 0.003174, valid_loss: 0.441306, best_loss: 0.441306
+epoch [894/2000], train loss: 0.003355, valid_loss: 0.441306, best_loss: 0.441306
+epoch [895/2000], train loss: 0.003068, valid_loss: 0.441306, best_loss: 0.441306
+epoch [896/2000], train loss: 0.003147, valid_loss: 0.441306, best_loss: 0.441306
+epoch [897/2000], train loss: 0.003322, valid_loss: 0.441306, best_loss: 0.441306
+epoch [898/2000], train loss: 0.003124, valid_loss: 0.441306, best_loss: 0.441306
+epoch [899/2000], train loss: 0.003152, valid_loss: 0.441306, best_loss: 0.441306
+epoch [900/2000], train loss: 0.002961, valid_loss: 0.441306, best_loss: 0.441306
+epoch [901/2000], train loss: 0.003305, valid_loss: 0.439709, best_loss: 0.439709
+epoch [902/2000], train loss: 0.003215, valid_loss: 0.439709, best_loss: 0.439709
+epoch [903/2000], train loss: 0.003082, valid_loss: 0.439709, best_loss: 0.439709
+epoch [904/2000], train loss: 0.003259, valid_loss: 0.439709, best_loss: 0.439709
+epoch [905/2000], train loss: 0.003094, valid_loss: 0.439709, best_loss: 0.439709
+epoch [906/2000], train loss: 0.003121, valid_loss: 0.439709, best_loss: 0.439709
+epoch [907/2000], train loss: 0.003210, valid_loss: 0.439709, best_loss: 0.439709
+epoch [908/2000], train loss: 0.003274, valid_loss: 0.439709, best_loss: 0.439709
+epoch [909/2000], train loss: 0.003145, valid_loss: 0.439709, best_loss: 0.439709
+epoch [910/2000], train loss: 0.002897, valid_loss: 0.439709, best_loss: 0.439709
+epoch [911/2000], train loss: 0.003254, valid_loss: 0.439709, best_loss: 0.439709
+epoch [912/2000], train loss: 0.003142, valid_loss: 0.439709, best_loss: 0.439709
+epoch [913/2000], train loss: 0.003103, valid_loss: 0.439709, best_loss: 0.439709
+epoch [914/2000], train loss: 0.003048, valid_loss: 0.439709, best_loss: 0.439709
+epoch [915/2000], train loss: 0.003226, valid_loss: 0.439709, best_loss: 0.439709
+epoch [916/2000], train loss: 0.003033, valid_loss: 0.439709, best_loss: 0.439709
+epoch [917/2000], train loss: 0.003233, valid_loss: 0.439709, best_loss: 0.439709
+epoch [918/2000], train loss: 0.003131, valid_loss: 0.439709, best_loss: 0.439709
+epoch [919/2000], train loss: 0.003202, valid_loss: 0.439709, best_loss: 0.439709
+epoch [920/2000], train loss: 0.003147, valid_loss: 0.439709, best_loss: 0.439709
+epoch [921/2000], train loss: 0.003177, valid_loss: 0.439709, best_loss: 0.439709
+epoch [922/2000], train loss: 0.003253, valid_loss: 0.439709, best_loss: 0.439709
+epoch [923/2000], train loss: 0.003167, valid_loss: 0.439709, best_loss: 0.439709
+epoch [924/2000], train loss: 0.003110, valid_loss: 0.439709, best_loss: 0.439709
+epoch [925/2000], train loss: 0.003288, valid_loss: 0.439709, best_loss: 0.439709
+epoch [926/2000], train loss: 0.003120, valid_loss: 0.439709, best_loss: 0.439709
+epoch [927/2000], train loss: 0.003097, valid_loss: 0.439709, best_loss: 0.439709
+epoch [928/2000], train loss: 0.002996, valid_loss: 0.439709, best_loss: 0.439709
+epoch [929/2000], train loss: 0.003091, valid_loss: 0.439709, best_loss: 0.439709
+epoch [930/2000], train loss: 0.003121, valid_loss: 0.439709, best_loss: 0.439709
+epoch [931/2000], train loss: 0.003245, valid_loss: 0.439709, best_loss: 0.439709
+epoch [932/2000], train loss: 0.003281, valid_loss: 0.439709, best_loss: 0.439709
+epoch [933/2000], train loss: 0.003185, valid_loss: 0.439709, best_loss: 0.439709
+epoch [934/2000], train loss: 0.003198, valid_loss: 0.439709, best_loss: 0.439709
+epoch [935/2000], train loss: 0.003346, valid_loss: 0.439709, best_loss: 0.439709
+epoch [936/2000], train loss: 0.003055, valid_loss: 0.439709, best_loss: 0.439709
+epoch [937/2000], train loss: 0.003142, valid_loss: 0.439709, best_loss: 0.439709
+epoch [938/2000], train loss: 0.002981, valid_loss: 0.439709, best_loss: 0.439709
+epoch [939/2000], train loss: 0.003079, valid_loss: 0.439709, best_loss: 0.439709
+epoch [940/2000], train loss: 0.003230, valid_loss: 0.439709, best_loss: 0.439709
+epoch [941/2000], train loss: 0.003109, valid_loss: 0.439709, best_loss: 0.439709
+epoch [942/2000], train loss: 0.002993, valid_loss: 0.439709, best_loss: 0.439709
+epoch [943/2000], train loss: 0.003025, valid_loss: 0.439709, best_loss: 0.439709
+epoch [944/2000], train loss: 0.003199, valid_loss: 0.439709, best_loss: 0.439709
+epoch [945/2000], train loss: 0.003109, valid_loss: 0.439709, best_loss: 0.439709
+epoch [946/2000], train loss: 0.003166, valid_loss: 0.439709, best_loss: 0.439709
+epoch [947/2000], train loss: 0.003180, valid_loss: 0.439709, best_loss: 0.439709
+epoch [948/2000], train loss: 0.003184, valid_loss: 0.439709, best_loss: 0.439709
+epoch [949/2000], train loss: 0.003145, valid_loss: 0.439709, best_loss: 0.439709
+epoch [950/2000], train loss: 0.003143, valid_loss: 0.439709, best_loss: 0.439709
+epoch [951/2000], train loss: 0.002997, valid_loss: 0.439709, best_loss: 0.439709
+epoch [952/2000], train loss: 0.003306, valid_loss: 0.439709, best_loss: 0.439709
+epoch [953/2000], train loss: 0.002919, valid_loss: 0.439709, best_loss: 0.439709
+epoch [954/2000], train loss: 0.003129, valid_loss: 0.439709, best_loss: 0.439709
+epoch [955/2000], train loss: 0.003066, valid_loss: 0.439709, best_loss: 0.439709
+epoch [956/2000], train loss: 0.003225, valid_loss: 0.439709, best_loss: 0.439709
+epoch [957/2000], train loss: 0.003057, valid_loss: 0.439709, best_loss: 0.439709
+epoch [958/2000], train loss: 0.003318, valid_loss: 0.439709, best_loss: 0.439709
+epoch [959/2000], train loss: 0.003071, valid_loss: 0.439709, best_loss: 0.439709
+epoch [960/2000], train loss: 0.003029, valid_loss: 0.439709, best_loss: 0.439709
+epoch [961/2000], train loss: 0.003250, valid_loss: 0.439709, best_loss: 0.439709
+epoch [962/2000], train loss: 0.003275, valid_loss: 0.439709, best_loss: 0.439709
+epoch [963/2000], train loss: 0.002963, valid_loss: 0.439709, best_loss: 0.439709
+epoch [964/2000], train loss: 0.003230, valid_loss: 0.439709, best_loss: 0.439709
+epoch [965/2000], train loss: 0.003174, valid_loss: 0.439709, best_loss: 0.439709
+epoch [966/2000], train loss: 0.003159, valid_loss: 0.439709, best_loss: 0.439709
+epoch [967/2000], train loss: 0.003089, valid_loss: 0.439709, best_loss: 0.439709
+epoch [968/2000], train loss: 0.003155, valid_loss: 0.439709, best_loss: 0.439709
+epoch [969/2000], train loss: 0.003129, valid_loss: 0.439709, best_loss: 0.439709
+epoch [970/2000], train loss: 0.003188, valid_loss: 0.439709, best_loss: 0.439709
+epoch [971/2000], train loss: 0.003111, valid_loss: 0.439709, best_loss: 0.439709
+epoch [972/2000], train loss: 0.003347, valid_loss: 0.439709, best_loss: 0.439709
+epoch [973/2000], train loss: 0.003185, valid_loss: 0.439709, best_loss: 0.439709
+epoch [974/2000], train loss: 0.003085, valid_loss: 0.439709, best_loss: 0.439709
+epoch [975/2000], train loss: 0.003086, valid_loss: 0.439709, best_loss: 0.439709
+epoch [976/2000], train loss: 0.003283, valid_loss: 0.439709, best_loss: 0.439709
+epoch [977/2000], train loss: 0.003016, valid_loss: 0.439709, best_loss: 0.439709
+epoch [978/2000], train loss: 0.003148, valid_loss: 0.439709, best_loss: 0.439709
+epoch [979/2000], train loss: 0.003030, valid_loss: 0.439709, best_loss: 0.439709
+epoch [980/2000], train loss: 0.003129, valid_loss: 0.439709, best_loss: 0.439709
+epoch [981/2000], train loss: 0.003079, valid_loss: 0.439709, best_loss: 0.439709
+epoch [982/2000], train loss: 0.003383, valid_loss: 0.439709, best_loss: 0.439709
+epoch [983/2000], train loss: 0.003034, valid_loss: 0.439709, best_loss: 0.439709
+epoch [984/2000], train loss: 0.003104, valid_loss: 0.439709, best_loss: 0.439709
+epoch [985/2000], train loss: 0.003270, valid_loss: 0.439709, best_loss: 0.439709
+epoch [986/2000], train loss: 0.003156, valid_loss: 0.439709, best_loss: 0.439709
+epoch [987/2000], train loss: 0.003073, valid_loss: 0.439709, best_loss: 0.439709
+epoch [988/2000], train loss: 0.003265, valid_loss: 0.439709, best_loss: 0.439709
+epoch [989/2000], train loss: 0.002956, valid_loss: 0.439709, best_loss: 0.439709
+epoch [990/2000], train loss: 0.003110, valid_loss: 0.439709, best_loss: 0.439709
+epoch [991/2000], train loss: 0.003235, valid_loss: 0.439709, best_loss: 0.439709
+epoch [992/2000], train loss: 0.003224, valid_loss: 0.439709, best_loss: 0.439709
+epoch [993/2000], train loss: 0.003131, valid_loss: 0.439709, best_loss: 0.439709
+epoch [994/2000], train loss: 0.003145, valid_loss: 0.439709, best_loss: 0.439709
+epoch [995/2000], train loss: 0.003180, valid_loss: 0.439709, best_loss: 0.439709
+epoch [996/2000], train loss: 0.003138, valid_loss: 0.439709, best_loss: 0.439709
+epoch [997/2000], train loss: 0.002981, valid_loss: 0.439709, best_loss: 0.439709
+epoch [998/2000], train loss: 0.003080, valid_loss: 0.439709, best_loss: 0.439709
+epoch [999/2000], train loss: 0.003173, valid_loss: 0.439709, best_loss: 0.439709
+epoch [1000/2000], train loss: 0.003022, valid_loss: 0.439709, best_loss: 0.439709
+epoch [1001/2000], train loss: 0.003128, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1002/2000], train loss: 0.003137, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1003/2000], train loss: 0.003090, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1004/2000], train loss: 0.003043, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1005/2000], train loss: 0.003361, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1006/2000], train loss: 0.003200, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1007/2000], train loss: 0.003035, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1008/2000], train loss: 0.003293, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1009/2000], train loss: 0.003097, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1010/2000], train loss: 0.003221, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1011/2000], train loss: 0.002948, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1012/2000], train loss: 0.003201, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1013/2000], train loss: 0.003188, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1014/2000], train loss: 0.003044, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1015/2000], train loss: 0.003064, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1016/2000], train loss: 0.002861, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1017/2000], train loss: 0.003249, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1018/2000], train loss: 0.003114, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1019/2000], train loss: 0.003142, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1020/2000], train loss: 0.003317, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1021/2000], train loss: 0.003111, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1022/2000], train loss: 0.003078, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1023/2000], train loss: 0.002954, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1024/2000], train loss: 0.003228, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1025/2000], train loss: 0.003072, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1026/2000], train loss: 0.002973, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1027/2000], train loss: 0.003211, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1028/2000], train loss: 0.003482, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1029/2000], train loss: 0.003143, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1030/2000], train loss: 0.003127, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1031/2000], train loss: 0.003122, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1032/2000], train loss: 0.003086, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1033/2000], train loss: 0.003008, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1034/2000], train loss: 0.003098, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1035/2000], train loss: 0.003224, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1036/2000], train loss: 0.003202, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1037/2000], train loss: 0.003320, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1038/2000], train loss: 0.003262, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1039/2000], train loss: 0.003074, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1040/2000], train loss: 0.003004, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1041/2000], train loss: 0.002988, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1042/2000], train loss: 0.003111, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1043/2000], train loss: 0.003338, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1044/2000], train loss: 0.003056, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1045/2000], train loss: 0.003066, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1046/2000], train loss: 0.003091, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1047/2000], train loss: 0.003224, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1048/2000], train loss: 0.002915, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1049/2000], train loss: 0.003141, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1050/2000], train loss: 0.002963, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1051/2000], train loss: 0.003031, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1052/2000], train loss: 0.003154, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1053/2000], train loss: 0.003104, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1054/2000], train loss: 0.003140, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1055/2000], train loss: 0.003184, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1056/2000], train loss: 0.003162, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1057/2000], train loss: 0.003253, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1058/2000], train loss: 0.003217, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1059/2000], train loss: 0.003067, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1060/2000], train loss: 0.003278, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1061/2000], train loss: 0.003071, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1062/2000], train loss: 0.003222, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1063/2000], train loss: 0.003247, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1064/2000], train loss: 0.003187, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1065/2000], train loss: 0.003152, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1066/2000], train loss: 0.003100, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1067/2000], train loss: 0.003412, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1068/2000], train loss: 0.003142, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1069/2000], train loss: 0.003218, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1070/2000], train loss: 0.003069, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1071/2000], train loss: 0.003064, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1072/2000], train loss: 0.003289, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1073/2000], train loss: 0.003385, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1074/2000], train loss: 0.003286, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1075/2000], train loss: 0.003115, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1076/2000], train loss: 0.003203, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1077/2000], train loss: 0.002971, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1078/2000], train loss: 0.003176, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1079/2000], train loss: 0.003147, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1080/2000], train loss: 0.002959, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1081/2000], train loss: 0.003120, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1082/2000], train loss: 0.002974, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1083/2000], train loss: 0.003105, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1084/2000], train loss: 0.003046, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1085/2000], train loss: 0.003456, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1086/2000], train loss: 0.002990, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1087/2000], train loss: 0.003072, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1088/2000], train loss: 0.003164, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1089/2000], train loss: 0.003334, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1090/2000], train loss: 0.002992, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1091/2000], train loss: 0.003029, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1092/2000], train loss: 0.003102, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1093/2000], train loss: 0.003023, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1094/2000], train loss: 0.003187, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1095/2000], train loss: 0.003144, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1096/2000], train loss: 0.003082, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1097/2000], train loss: 0.003105, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1098/2000], train loss: 0.002958, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1099/2000], train loss: 0.003061, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1100/2000], train loss: 0.003214, valid_loss: 0.416397, best_loss: 0.416397
+epoch [1101/2000], train loss: 0.002947, valid_loss: 0.417409, best_loss: 0.416397
+epoch [1102/2000], train loss: 0.003063, valid_loss: 0.417409, best_loss: 0.416397
+Traceback (most recent call last):
+  File "/home/bule/projects/inpainting-transformer/main.py", line 122, in <module>
+    torch.save(model.state_dict(), os.path.join(args.ckpt, 'model_last.nn'))
+  File "/home/bule/anaconda3/envs/inpaint/lib/python3.9/site-packages/torch/serialization.py", line 619, in save
+    _save(obj, opened_zipfile, pickle_module, pickle_protocol, _disable_byteorder_record)
+  File "/home/bule/anaconda3/envs/inpaint/lib/python3.9/site-packages/torch/serialization.py", line 853, in _save
+    zip_file.write_record(name, storage.data_ptr(), num_bytes)
+KeyboardInterrupt

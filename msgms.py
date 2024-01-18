@@ -17,7 +17,7 @@ class MSGMSLoss(Module):
         self.mean_filter = torch.ones((1, 1, 21, 21))/(21*21)
 
     def forward(self, img1: Tensor, img2: Tensor) -> Tuple[Tensor, Tensor]:
-
+        print (img1.shape)
         if not self.prewitt_x.is_cuda or not self.prewitt_y.is_cuda:
             self.prewitt_x = self.prewitt_x.to(img1.device)
             self.prewitt_y = self.prewitt_y.to(img1.device)
@@ -26,6 +26,8 @@ class MSGMSLoss(Module):
 
         b, c, h, w = img1.shape
         #msgms_map = 0
+        
+        # TODO why are there self.scales?  -> is just calculated scale times and then divided by 3
         msgms_map = torch.zeros_like(img1)
         for scale in range(self.num_scales):
 
@@ -40,6 +42,8 @@ class MSGMSLoss(Module):
         msgms_map = torch.mean(1 - msgms_map / self.num_scales, dim=1, keepdim=True)
         msgms_map = F.conv2d(msgms_map, self.mean_filter, stride=1, padding=10)
         return msgms_loss, msgms_map
+    
+    
         #return torch.mean(1 - msgms_map / self.num_scales), torch.mean(1 - msgms_map / self.num_scales, dim=1, keepdim=True)
 
     def _gms(self, img1: Tensor, img2: Tensor) -> Tensor:
