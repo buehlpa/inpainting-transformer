@@ -91,7 +91,9 @@ if __name__ =='__main__':
         os.makedirs(args.ckpt, exist_ok=True)
     if not os.path.exists(args.results):
         os.makedirs(args.results, exist_ok=True)
+        
 
+    
     torch.manual_seed(seed)
     if torch.cuda.is_available():
         torch.cuda.manual_seed(seed)
@@ -150,13 +152,20 @@ if __name__ =='__main__':
                 loss, image_recon, image_reassembled, msgms_map =  model._process_one_image(data)
                 test_loss += loss.item()
 
-                image_raw_arr =  (data)
+
+                image_raw_arr =  tensor2nparr(data)
                 image_rec_arr = tensor2nparr(image_recon)
                 image_pred_arr = tensor2nparr(msgms_map)
                 image_pred_arr_th = image_pred_arr.copy()
                 image_pred_arr_th[image_pred_arr_th < 128] = 0
+                
+                print(image_raw_arr.shape, image_rec_arr.shape, image_pred_arr.shape, image_pred_arr_th.shape)
 
+                
                 img_basename = [get_basename(x) for x in label[2]]
+                
+                print(os.path.join(args.results, img_basename[0]+'_image.jpg'))
+                
                 cv2.imwrite(os.path.join(args.results, img_basename[0]+'_image.jpg'), image_raw_arr[0])
                 cv2.imwrite(os.path.join(args.results, img_basename[0]+'_recon.jpg'), image_rec_arr[0])
                 cv2.imwrite(os.path.join(args.results, img_basename[0]+'_pred_raw.jpg'), image_pred_arr[0])
