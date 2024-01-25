@@ -110,7 +110,7 @@ def MVTecAD_loader(image_dir, image_size, train_ratio=0.9, batch_size=1, num_wor
     #  TODO add part to insert contamination into the training data set : IDEA reomve from testset and add to trainset
 
 
-    print(train_image_list,)
+    #print(train_image_list,)
 
 
 

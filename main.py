@@ -23,7 +23,7 @@ def parse_args():
     parser.add_argument('--image_dir', default='/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable', type=str)
 
     parser.add_argument('--image_size', default=(256,256), type=tuple)
-    parser.add_argument('--num_epochs', default=2000, type=int)
+    parser.add_argument('--num_epochs', default=20000, type=int)
     parser.add_argument('--batch_size', default=256, type=int)
     parser.add_argument('--lr', default=1e-4, type=float)
     parser.add_argument('--train_ratio', default=0.8, type=float)
@@ -77,14 +77,14 @@ if __name__ =='__main__':
     for arg in vars(args):
         print(arg, getattr(args, arg))
         
-    print(args.contamination)    
+    # print(args.contamination)    
         
         
     train_loader, valid_loader = MVTecAD_loader(args.image_dir, args.image_size, args.train_ratio, args.batch_size, num_workers=24, is_inference=False,contamination=args.contamination)
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    print(device)
+    # print(device)
     args.n_gpus = torch.cuda.device_count()
-    print("Device count: ", torch.cuda.device_count())
+    # print("Device count: ", torch.cuda.device_count())
 
     seed = 42
     if not os.path.exists(args.ckpt):
@@ -116,7 +116,7 @@ if __name__ =='__main__':
         num_epochs = args.num_epochs
         for epoch in range(num_epochs):
             train_loss = train(model, train_loader)
-            if epoch % 100 == 0:
+            if epoch % 10 == 0:
                 valid_loss = valid(model, valid_loader)
             if valid_loss < best_loss:
                 best_loss = valid_loss
@@ -159,12 +159,12 @@ if __name__ =='__main__':
                 image_pred_arr_th = image_pred_arr.copy()
                 image_pred_arr_th[image_pred_arr_th < 128] = 0
                 
-                print(image_raw_arr.shape, image_rec_arr.shape, image_pred_arr.shape, image_pred_arr_th.shape)
+                # print(image_raw_arr.shape, image_rec_arr.shape, image_pred_arr.shape, image_pred_arr_th.shape)
 
                 
                 img_basename = [get_basename(x) for x in label[2]]
                 
-                print(os.path.join(args.results, img_basename[0]+'_image.jpg'))
+                # print(os.path.join(args.results, img_basename[0]+'_image.jpg'))
                 
                 cv2.imwrite(os.path.join(args.results, img_basename[0]+'_image.jpg'), image_raw_arr[0])
                 cv2.imwrite(os.path.join(args.results, img_basename[0]+'_recon.jpg'), image_rec_arr[0])

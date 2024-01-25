@@ -26,6 +26,8 @@ python main.py --image_dir=../mvtec_anomaly_detection/bottle/ --ckpt=./ckpt/InTr
 python main.py --image_dir=../mvtec_anomaly_detection/bottle/ --ckpt=./ckpt/InTra/MVTAD_bottle/ --is_infer
 ```
 
+
+### own
 ```bash
 python main.py --image_dir=/home/bule/projects/MVTec_Visualizer/data/mvtec_anomaly_detection/cable --ckpt=/home/bule/projects/inpainting-transformer/ckpt --is_infer
 ```
