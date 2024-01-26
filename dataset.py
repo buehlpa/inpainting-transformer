@@ -55,7 +55,7 @@ def get_folder_names(directory):
     """ List all folder names in the specified directory. """
     return [name for name in os.listdir(directory) if os.path.isdir(os.path.join(directory, name))]
 
-def MVTecAD_loader(image_dir, image_size, train_ratio=0.9, batch_size=1, num_workers=0, is_inference=False, seed=1234,contamination=False):
+def MVTecAD_loader(image_dir, image_size, train_ratio=0.9, batch_size=1, num_workers=0, is_inference=False, seed=1234,contamination=False,Z_score=False):
     assert train_ratio >=0.0 and train_ratio <=1.0
     # automatically returns two dataloaders. train & valid depends on train_ratio
     random.seed(seed)
@@ -117,7 +117,12 @@ def MVTecAD_loader(image_dir, image_size, train_ratio=0.9, batch_size=1, num_wor
     # training
     if not is_inference:
         
-        train_dataset = MVTecAD_Dataset(train_image_list, train_label_list, transform_train)
+        
+        if not Z_score:
+            train_dataset = MVTecAD_Dataset(train_image_list, train_label_list, transform_train)
+        else:
+            train_dataset = MVTecAD_Dataset(train_image_list, train_label_list, transform_infer) # for calculation of the Z score we do not want any augmentation -> only for evaluation
+            
         train_dataloader = DataLoader(dataset=train_dataset, batch_size=batch_size, num_workers=num_workers, shuffle=True)
         if train_ratio < 1.0:
             valid_dataset = MVTecAD_Dataset(valid_image_list, valid_label_list, transform_infer)
