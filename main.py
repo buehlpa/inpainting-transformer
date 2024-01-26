@@ -46,8 +46,11 @@ def train(model, train_loader):
         loss = model._process_one_batch(data)
         loss.backward()
         train_loss += loss.item()
+        print(f'train_loss: {train_loss}')
         optimizer.step()
     train_loss /= len(train_loader.dataset)
+    print(f'len train: {len(train_loader.dataset)}')
+    
     return train_loss
 
 def valid(model, valid_loader):
@@ -59,7 +62,10 @@ def valid(model, valid_loader):
             #loss, image_recon, image_reassembled, msgms_map =  model._process_one_image(data)
             loss, _, _, _ =  model._process_one_image(data)
             valid_loss += loss.item()
+            print(f'valid_loss: {valid_loss/256}')
+            
     valid_loss /= len(valid_loader.dataset)
+    print(f'len valid: {len(valid_loader.dataset)}')
             
     return valid_loss
 
